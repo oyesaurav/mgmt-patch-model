@@ -1,0 +1,745 @@
+﻿ID_Train,MGMT,Survival,MGMT,Alive,,,,ID,Gender,Age_at_scan_years,Survival_from_surgery_days,IDH1,MGMT,outsideImaging,prior_biopsy,alive
+AASK_2013.08.26,0,528,Not Detected,n,,,,AAAA_2007.01.21,F,52.16,960,Wildtype,NA,,,n
+AASM_2014.03.07,0,NA,Not Detected,y,,,,AAAB_2006.10.28,F,61.3,291,Wildtype,NA,,,n
+AASN_2014.04.22,0,411,Not Detected,n,,,,AAAC_2008.03.30,M,42.82,2838,Wildtype,NA,,,n
+AASO_2014.05.11,0,270,Not Detected,n,,,,AAAE_2007.08.07,M,33.43,623,NOS/NEC,NA,,,n
+AASQ_2013.08.25,0,351,Not Detected,n,,,,AAAF_2007.03.08,M,53.33,1143,Wildtype,NA,,,n
+AASR_2014.05.19,0,1178,Not Detected,n,,,,AAAG_2007.03.15,M,52.99,626,Wildtype,NA,,,n
+AASU_2014.06.03,0,80,Not Detected,n,,,,AAAK_2006.07.25,M,56.96,348,Wildtype,NA,,,n
+AASV_2013.08.11,0,604,Not Detected,n,,,,AAAL_2006.09.14,F,55.06,469,Wildtype,NA,,,n
+AASW_2014.06.05,0,233,Not Detected,n,,,,AAAM_2007.08.16,M,69.12,561,Wildtype,NA,,,n
+AASY_2014.06.25,0,618,Not Detected,n,,,,AAAN_2007.03.11,M,77.54,501,Wildtype,NA,,,n
+AATM_2009.07.26,0,44,NA,n,,,,AAAP_2006.12.23,F,39.61,798,NOS/NEC,NA,,,n
+AATY_2011.04.25,0,98,NA,n,,,,AABA_2007.10.01,M,53.85,882,Wildtype,NA,,,n
+AAUF_2008.01.07,0,578,NA,n,,,,AABB_2007.11.11,M,69.45,472,NOS/NEC,NA,,,n
+AAUJ_2012.02.14,0,200,NA,n,,,,AABE_2008.01.27,M,68.06,272,Wildtype,NA,,,n
+AAUS_2011.05.17,0,250,NA,n,,,,AABH_2008.06.12,M,54.9,554,Wildtype,NA,,,n
+AAUW_2011.05.04,0,21,NA,n,,,,AABM_2008.06.01,M,70.89,509,Wildtype,NA,,,n
+AAVB_2011.09.04,0,182,NA,n,,,,AABN_2006.05.30,M,69.23,1297,NOS/NEC,NA,,,n
+AAVL_2012.01.26,0,3,NA,n,,,,AABO_2008.09.04,F,57.21,1170,Wildtype,NA,,,n
+AAVO_2011.12.31,0,485,NA,n,,,,AABP_2008.10.14,F,43.12,1358,Wildtype,NA,,,n
+AAVW_2008.12.18,0,151,NA,n,,,,AABT_2009.02.12,M,50.86,425,Wildtype,NA,,,n
+AAVZ_2009.02.01,0,583,NA,n,,,,AABY_2008.06.05,F,49.04,510,Wildtype,NA,,,n
+AAWP_2013.01.09,0,1039,NA,n,,,,AACB_2010.04.06,F,53.88,1882,Wildtype,Not Detected,,,n
+AAXC_2013.02.27,0,420,Not Detected,n,,,,AACV_2008.03.14,M,55.57,NA,Wildtype,NA,,,y
+AAXF_2013.04.11,0,51,Not Detected,n,,,,AAKQ_2010.10.07,M,54.26,454,Wildtype,NA,,,n
+AAYL_2013.07.10,0,537,Not Detected,n,,,,AAKY_2007.06.12,F,64.32,710,Wildtype,NA,,,n
+AAZF_2008.07.17,0,NA,NA,y,,,,AALA_2008.07.20,M,52.43,363,NOS/NEC,NA,,,n
+AAZJ_2013.05.16,0,437,Not Detected,n,,,,AALP_2011.05.08,F,65.08,407,Wildtype,NA,,,n
+ABAH_2014.08.06,0,363,Not Detected,n,,,,AALS_2010.06.23,F,67.35,368,Wildtype,NA,,,n
+ABAP_2012.06.21,0,427,NA,n,,,,AALT_2008.02.06,M,22.03,1504,Wildtype,NA,,,n
+ABAX_2014.05.15,0,409,Not Detected,n,,,,AALU_2010.07.25,M,66.81,502,Wildtype,NA,,,n
+ABBF_2011.03.10,0,127,NA,n,,,,AALV_2008.07.01,M,65.92,2207,Wildtype,NA,,,n
+ABBG_2014.03.16,0,112,Not Detected,n,,,,AALW_2010.02.24,M,63.26,272,NOS/NEC,NA,,,n
+ABCA_2012.06.13,0,658,NA,n,,,,AALX_2007.09.06,M,60.52,707,Wildtype,NA,,,n
+ABCC_2012.11.18,0,428,Not Detected,n,,,,AALY_2014.09.09,F,53.63,464,Wildtype,Not Detected,,,n
+ABCL_2014.03.26,0,334,Not Detected,n,,,,AALZ_2009.11.02,M,56.25,364,Wildtype,NA,,,n
+ABCS_2014.08.24,0,98,Not Detected,n,,,,AAMA_2011.06.12,M,42.14,808,Wildtype,NA,,,n
+ABDK_2011.08.11,0,74,NA,n,,,,AAMB_2009.09.28,M,58.41,664,Wildtype,NA,,,n
+ABDY_2013.07.11,0,13,Not Detected,n,,,,AAMC_2009.11.25,M,57.99,NA,Wildtype,NA,,,y
+ABEX_2013.01.03,0,149,NA,n,,,,AAMD_2007.07.10,F,64.5,2048,Wildtype,NA,,,n
+ABFC_2015.03.12,0,617,Not Detected,n,,,,AAME_2007.02.26,M,52.45,360,Wildtype,NA,,,n
+ABFH_2014.04.07,0,351,Not Detected,n,,,,AAMF_2006.10.05,M,65.65,598,Wildtype,NA,,,n
+ABGF_2015.03.16,0,106,Not Detected,n,,,,AAMG_2011.04.17,M,62.05,371,Wildtype,NA,,,n
+ABGG_2015.03.01,0,142,Not Detected,n,,,,AAMH_2007.05.17,M,63.48,172,NOS/NEC,NA,,,n
+ABGK_2015.07.22,0,383,Not Detected,n,,,,AAMI_2009.02.05,M,63.41,379,Wildtype,NA,,,n
+ABGM_2015.02.20,0,213,Not Detected,n,,,,AAMJ_2010.11.14,F,50.8,538,Wildtype,NA,,,n
+ABGN_2015.02.27,0,538,Not Detected,n,,,,AAMK_2009.05.28,M,58.75,195,Wildtype,NA,,,n
+ABGO_2015.05.22,0,416,Not Detected,n,,,,AAML_2011.02.14,M,63.44,437,NOS/NEC,NA,,,n
+ABGP_2015.05.26,0,360,Not Detected,n,,,,AAMM_2010.11.18,M,65.22,1159,Wildtype,NA,,,n
+ABGQ_2015.07.01,0,443,Not Detected,n,,,,AAMN_2011.04.17,M,57.67,224,Wildtype,NA,,,n
+ABGS_2015.07.22,0,133,Not Detected,n,,,,AAMO_2010.11.21,M,54.04,662,Wildtype,NA,,,n
+ABGT_2015.09.18,0,524,Not Detected,n,,,,AAMP_2010.11.24,F,60.21,781,Wildtype,NA,,,n
+ABGW_2014.09.28,0,319,Not Detected,n,,,,AAMQ_2011.01.30,M,53.35,563,NOS/NEC,NA,,,n
+ABGX_2015.06.04,0,730,Not Detected,n,,,,AAMS_2011.04.03,M,64,396,Wildtype,NA,,,n
+ABHA_2015.07.23,0,114,Not Detected,n,,,,AAMU_2010.12.14,F,39.88,412,NOS/NEC,NA,,,n
+ABHF_2015.09.04,0,373,Not Detected,n,,,,AAMY_2012.02.02,M,57.87,74,Wildtype,NA,,,n
+ABHG_2014.10.31,0,21,Not Detected,n,,,,AANB_2007.04.25,F,68.84,2516,Wildtype,NA,,,n
+ABHJ_2015.04.22,0,455,Not Detected,n,,,,AANC_2009.09.23,M,65.95,673,Wildtype,NA,,,n
+ABHL_2015.09.09,0,114,Not Detected,n,,,,AAND_2009.07.19,M,50.92,392,Wildtype,NA,,,n
+ABHM_2015.08.26,0,443,Not Detected,n,,,,AANG_2006.09.07,M,56.53,369,Wildtype,NA,,,n
+ABHN_2015.10.07,0,93,Not Detected,n,,,,AANI_2006.12.10,M,59.07,445,Wildtype,NA,,,n
+ABHQ_2015.11.24,0,336,Not Detected,n,,,,AANJ_2007.09.25,M,60.22,851,NOS/NEC,NA,,,n
+ABHR_2014.10.20,0,322,Not Detected,n,,,,AANK_2008.03.30,M,61.4,427,Wildtype,NA,,,n
+ABHT_2015.04.20,0,341,Not Detected,n,,,,AANL_2007.07.10,F,80.8,1152,Wildtype,NA,,,n
+ABHV_2015.11.03,0,342,Not Detected,n,,,,AANM_2009.01.02,F,73.75,879,Wildtype,NA,,,n
+ABHX_2016.04.25,0,480,Not Detected,n,,,,AANN_2010.11.18,F,75.64,111,NOS/NEC,NA,,,n
+ABHZ_2015.12.21,0,503,Not Detected,n,,,,AANP_2007.06.14,F,62.46,493,Wildtype,NA,,,n
+ABIA_2016.06.08,0,151,Not Detected,n,,,,AANR_2008.11.25,F,72.39,282,NOS/NEC,NA,,,n
+ABID_2016.07.01,0,57,Not Detected,n,,,,AANU_2012.10.21,M,52.2,389,Wildtype,Indeterminate,,,n
+ABIK_2015.11.27,0,565,Not Detected,n,,,,AANV_2006.07.19,M,50.77,296,Wildtype,NA,,,n
+ABIM_2016.02.10,0,423,Not Detected,n,,,,AANW_2011.08.17,F,75.63,37,Wildtype,NA,,,n
+ABIN_2016.02.18,0,531,Not Detected,n,,,,AANX_2007.01.14,F,37.13,NA,Mutated,NA,,,y
+ABIP_2016.03.30,0,827,Not Detected,n,,,,AANY_2012.06.29,F,59.79,553,Wildtype,NA,,,n
+ABIR_2016.06.29,0,100,Not Detected,n,,,,AANZ_2007.11.07,M,68.99,291,NOS/NEC,NA,,,n
+ABIS_2016.07.15,0,NA,Not Detected,y,,,,AAOB_2008.03.23,M,56.51,1071,NOS/NEC,NA,,,n
+ABKC_2015.04.26,0,518,Not Detected,n,,,,AAOC_2012.07.31,M,54.1,278,Wildtype,NA,,,n
+ABKI_2014.04.11,0,765,Not Detected,n,,,,AAOD_2007.02.23,M,61.42,54,NOS/NEC,NA,,,n
+ABKU_2016.01.31,0,136,Not Detected,n,,,,AAOE_2010.05.04,M,80.93,54,Wildtype,NA,,,n
+ABKV_2016.02.03,0,374,Not Detected,n,,,,AAOF_2012.11.07,M,70.74,158,Wildtype,Indeterminate,,,n
+ABKX_2016.02.13,0,166,Not Detected,n,,,,AAOG_2008.10.01,F,78.67,57,NOS/NEC,NA,,,n
+ABLA_2016.02.21,0,125,Not Detected,n,,,,AAOH_2006.11.01,F,57.71,583,NOS/NEC,NA,,,n
+ABLD_2016.02.29,0,582,Not Detected,n,,,,AAOL_2011.03.30,M,63,24,NOS/NEC,NA,,,n
+ABLE_2016.03.08,0,626,Not Detected,n,,,,AAOO_2013.02.11,M,44.78,351,Wildtype,Indeterminate,,,n
+ABLF_2016.03.14,0,70,Not Detected,n,,,,AAOP_2013.01.25,M,68.78,333,Wildtype,NA,,,n
+ABLG_2016.04.07,0,205,Not Detected,n,,,,AAOQ_2011.12.21,F,47.22,442,Wildtype,NA,,,n
+ABLH_2016.04.13,0,389,Not Detected,n,,,,AAOR_2007.01.14,M,48.18,NA,Wildtype,NA,,,y
+ABMO_2016.11.10,0,248,Not Detected,n,,,,AAOS_2012.09.12,M,70.81,146,Wildtype,NA,,,n
+ABMQ_2016.09.21,0,742,Not Detected,n,,,,AAOT_2009.06.18,M,71.76,44,NOS/NEC,NA,,,n
+ABMR_2016.08.24,0,764,Not Detected,n,,,,AAOZ_2014.08.27,M,47.32,334,Wildtype,Not Detected,,,n
+ABMU_2016.08.18,0,680,Not Detected,n,,,,AAPB_2014.06.05,M,77.37,1475,Wildtype,Positive,,,n
+ABMZ_2016.09.16,0,NA,Not Detected,y,,,,AAPH_2013.06.12,F,66.91,400,Wildtype,Not Detected,,,n
+ABNB_2016.11.09,0,693,Not Detected,n,,,,AAPK_2014.09.11,M,70.54,200,Wildtype,Not Detected,,,n
+ABNF_2017.03.09,0,NA,Not Detected,y,,,,AAPL_2014.09.14,F,66.44,30,Wildtype,Not Detected,,,n
+ABNG_2016.07.04,0,738,Not Detected,n,,,,AAPM_2014.09.16,F,51.3,616,Wildtype,Not Detected,,,n
+ABNH_2016.10.14,0,479,Not Detected,n,,,,AAPN_2014.09.20,M,65.95,383,Wildtype,Not Detected,,,n
+ABNN_2017.04.21,0,316,Not Detected,n,,,,AAPO_2013.04.18,M,61.15,289,Wildtype,Positive,,,n
+ABNO_2016.11.02,0,114,Not Detected,n,,,,AAPR_2014.11.11,F,63.58,20,Wildtype,NA,,,n
+ABNQ_2016.10.04,0,36,Not Detected,n,,,,AAPS_2014.11.18,M,57.01,709,Wildtype,Positive,,,n
+ABNS_2017.06.27,0,44,Not Detected,n,,,,AAPT_2013.10.03,F,62.67,524,Wildtype,Positive,,,n
+ABNT_2017.06.04,0,516,Not Detected,n,,,,AAPV_2015.01.12,M,56.37,578,Wildtype,Positive,,,n
+ABOA_2016.05.14,0,168,Not Detected,n,,,,AAPY_2007.05.27,M,46.18,205,NOS/NEC,NA,,,n
+ABOC_2017.06.23,0,52,Not Detected,n,,,,AAPZ_2007.02.13,M,60.9,339,NOS/NEC,NA,,,n
+ABOE_2017.03.03,0,256,Not Detected,n,,,,AAQA_2007.11.20,M,77.43,106,NOS/NEC,NA,,,n
+ABOH_2016.12.23,0,610,Not Detected,n,,,,AAQB_2008.02.17,F,78.68,66,NOS/NEC,NA,,,n
+ABOI_2016.08.30,0,NA,Not Detected,y,,,,AAQC_2008.02.21,F,73.09,211,Wildtype,NA,,,n
+ABOK_2017.06.13,0,192,Not Detected,n,,,,AAQD_2008.08.21,F,74.05,32,NOS/NEC,NA,,,n
+ABOM_2017.02.21,0,NA,Not Detected,y,,,,AAQE_2008.06.15,F,72.4,104,NOS/NEC,NA,,,n
+ABON_2016.09.23,0,NA,Not Detected,y,,,,AAQG_2007.09.06,M,54.35,472,NOS/NEC,NA,,,n
+ABOO_2017.01.27,0,371,Not Detected,n,,,,AAQJ_2008.08.28,M,66.99,173,NOS/NEC,NA,,,n
+ABOR_2016.05.24,0,278,Not Detected,n,,,,AAQK_2008.06.13,M,51.02,351,NOS/NEC,NA,,,n
+ABOT_2016.11.28,0,395,Not Detected,n,,,,AAQL_2008.10.09,F,61.44,257,NOS/NEC,NA,,,n
+ABOW_2016.09.27,0,175,Not Detected,n,,,,AAQM_2008.11.14,M,72.49,290,NOS/NEC,NA,,,n
+ABPD_2016.09.22,0,821,Not Detected,n,,,,AAQN_2008.08.17,M,64.07,494,NOS/NEC,NA,,,n
+ABRF_2013.03.01,0,397,Not Detected,n,,,,AAQO_2008.05.28,F,68.8,479,Wildtype,NA,,,n
+ABWQ_2016.07.05,0,482,Not Detected,n,,,,AAQP_2008.06.19,F,47.1,1302,NOS/NEC,NA,,,n
+ABXA_2016.10.05,0,483,Not Detected,n,,,,AAQR_2013.08.18,F,72.36,87,Wildtype,Positive,,,n
+ACBM_2013.12.06,0,648,Not Detected,n,,,,AAQS_2013.11.25,M,56.56,65,Wildtype,Positive,,,n
+ACDB_2016.06.13,0,596,Not Detected,n,,,,AAQT_2013.08.26,F,77.03,173,Wildtype,Not Detected,,,n
+ACDC_2017.01.31,0,213,Not Detected,n,,,,AAQU_2014.05.07,M,73.89,30,Wildtype,Indeterminate,,,n
+ACED_2016.06.12,0,99,Not Detected,n,,,,AAQV_2014.03.19,F,54.1,84,Wildtype,Indeterminate,,,n
+ACFD_2016.09.28,0,572,Not Detected,n,,,,AAQX_2013.10.01,F,78.75,289,Wildtype,Not Detected,,,n
+ACFY_2017.01.12,0,74,Not Detected,n,,,,AAQY_2013.12.04,M,58.52,226,Wildtype,Not Detected,,,n
+ACFZ_2016.10.24,0,347,Not Detected,n,,,,AAQZ_2013.10.25,M,64.22,284,Wildtype,Not Detected,,,n
+ACHB_2016.08.17,0,50,Not Detected,n,,,,AARB_2007.10.09,F,24.61,NA,Mutated,NA,,,y
+ACIE_2016.09.08,0,170,Not Detected,n,,,,AARF_2013.08.14,F,76.36,735,Wildtype,Positive,,,n
+ACIK_2017.05.09,0,285,Not Detected,n,,,,AARH_2013.08.30,F,23.96,1525,Wildtype,Not Detected,,,n
+ACJG_2017.03.07,0,377,Not Detected,n,,,,AARI_2012.12.19,M,50.76,766,Wildtype,Indeterminate,,,n
+ACJR_2017.01.03,0,732,Not Detected,n,,,,AARK_2012.12.11,M,68.85,721,Wildtype,NA,,,n
+ACJS_2018.06.12,0,199,Not Detected,n,,,,AARO_2013.10.16,F,81.29,990,Wildtype,Positive,,,n
+ACJT_2018.05.07,0,NA,Not Detected,y,,,,AARP_2013.07.08,M,57.59,171,Wildtype,Not Detected,,,n
+ACJV_2017.11.24,0,157,Not Detected,n,,,,AARQ_2011.08.26,M,52.5,831,Wildtype,NA,,,n
+ACJX_2018.07.10,0,248,Not Detected,n,,,,AARR_2013.05.17,M,76.3,852,Wildtype,Positive,,,n
+ACJY_2018.04.06,0,598,Not Detected,n,,,,AART_2012.05.21,M,48.02,922,Wildtype,Not Detected,,,n
+ACKB_2018.04.17,0,448,Not Detected,n,,,,AARV_2013.05.01,M,73.2,744,Wildtype,Not Detected,,,n
+ACKF_2018.02.22,0,215,Not Detected,n,,,,AARW_2013.11.25,M,45.03,494,Wildtype,Not Detected,,,n
+ACKH_2017.09.16,0,127,Not Detected,n,,,,AARZ_2013.12.19,M,55.59,879,Wildtype,Positive,,,n
+ACKM_2016.08.29,0,493,Not Detected,n,,,,AASA_2014.01.15,M,64.65,211,Wildtype,Not Detected,,,n
+ACKW_2018.02.14,0,121,Not Detected,n,,,,AASE_2014.02.18,M,47.47,320,Wildtype,Indeterminate,,,n
+ACLB_2017.11.29,0,490,Not Detected,n,,,,AASF_2014.02.18,F,60.66,1527,Wildtype,Positive,,,n
+ACLH_2018.02.15,0,166,Not Detected,n,,,,AASG_2014.02.26,M,58.52,208,Wildtype,Not Detected,,,n
+ACLJ_2017.09.19,0,384,Not Detected,n,,,,AASH_2014.02.27,M,47.22,664,Wildtype,Not Detected,,,n
+ACLN_2018.02.15,0,229,Not Detected,n,,,,AASK_2013.08.26,M,78.41,528,Wildtype,Not Detected,,,n
+ACLZ_2017.10.12,0,447,Not Detected,n,,,,AASM_2014.03.07,M,67.68,NA,Wildtype,Not Detected,,,y
+ACMC_2017.12.11,0,430,Not Detected,n,,,,AASN_2014.04.22,M,40.04,411,Wildtype,Not Detected,,,n
+ACMG_2018.01.14,0,33,Not Detected,n,,,,AASO_2014.05.11,F,53.07,270,Wildtype,Not Detected,,,n
+ACMI_2018.05.21,0,36,Not Detected,n,,,,AASQ_2013.08.25,F,65.81,351,Wildtype,Not Detected,,,n
+ACMM_2018.02.23,0,641,Not Detected,n,,,,AASR_2014.05.19,M,48.74,1178,Wildtype,Not Detected,,,n
+ACMQ_2018.04.01,0,259,Not Detected,n,,,,AASU_2014.06.03,F,82.41,80,Wildtype,Not Detected,,,n
+ACMS_2018.04.18,0,104,Not Detected,n,,,,AASV_2013.08.11,M,55.51,604,Wildtype,Not Detected,,,n
+ACMT_2018.04.27,0,203,Not Detected,n,,,,AASW_2014.06.05,F,69.3,233,Wildtype,Not Detected,,,n
+ACMW_2018.06.08,0,153,Not Detected,n,,,,AASX_2014.06.18,F,55.95,733,Wildtype,Not Detected,,,n
+ACMY_2018.06.20,0,440,Not Detected,n,,,,AASY_2014.06.25,M,67.43,618,Wildtype,Not Detected,,,n
+ACNJ_2018.07.31,0,324,Not Detected,n,,,,AASZ_2006.07.19,F,57.4,742,NOS/NEC,NA,,,n
+ACNM_2018.09.10,0,123,Not Detected,n,,,,AATA_2006.07.26,M,59.91,234,NOS/NEC,NA,,,n
+ACNO_2018.09.09,0,147,Not Detected,n,,,,AATB_2006.08.15,F,72.11,209,Wildtype,NA,,,n
+ACNR_2018.07.18,0,154,Not Detected,n,,,,AATC_2006.08.15,F,69.13,503,NOS/NEC,NA,,,n
+ACNU_2018.08.01,0,297,Not Detected,n,,,,AATD_2006.09.24,F,70.14,359,Wildtype,NA,,,n
+ACNV_2018.08.24,0,292,Not Detected,n,,,,AATE_2006.11.26,F,61.39,235,NOS/NEC,NA,,,n
+ACNW_2018.08.22,0,59,Not Detected,n,,,,AATF_2006.12.19,M,69.68,152,NOS/NEC,NA,,,n
+ACNX_2018.08.01,0,303,Not Detected,n,,,,AATG_2009.08.16,M,63.88,264,NOS/NEC,NA,,,n
+ACOB_2018.08.20,0,223,Not Detected,n,,,,AATH_2010.11.04,F,58.84,790,NOS/NEC,NA,,,n
+ACOE_2018.09.25,0,46,Not Detected,n,,,,AATI_2011.02.21,F,59.81,80,NOS/NEC,NA,,,n
+ACOF_2018.09.30,0,381,Not Detected,n,,,,AATJ_2009.06.16,F,73.49,557,NOS/NEC,NA,,,n
+ACOH_2018.10.10,0,NA,Not Detected,y,,,,AATK_2011.09.04,F,63.78,NA,Wildtype,Indeterminate,,,y
+ACOJ_2018.10.20,0,435,Not Detected,n,,,,AATL_2012.10.14,F,46.79,1193,Wildtype,Not Detected,,,n
+ACOO_2018.11.26,0,234,Not Detected,n,,,,AATM_2009.07.26,M,66.64,44,Wildtype,NA,,,n
+ACOW_2018.08.18,0,93,Not Detected,n,,,,AATP_2008.11.01,F,52.31,388,Wildtype,NA,,,n
+ACPG_2019.01.04,0,NA,Not Detected,y,,,,AATQ_2009.06.08,M,65.36,94,NOS/NEC,NA,,,n
+ACPK_2019.01.15,0,12,Not Detected,n,,,,AATR_2011.04.17,M,76.99,93,NOS/NEC,NA,,,n
+ACPO_2017.12.28,0,138,Not Detected,n,,,,AATS_2011.05.25,F,72.09,23,NOS/NEC,NA,,,n
+ACRB_2014.07.25,0,551,Not Detected,n,,,,AATT_2012.06.20,M,51.79,505,Wildtype,NA,,,n
+ACSL_2019.02.28,0,726,Not Detected,n,,,,AATU_2010.12.19,M,68.93,846,Wildtype,NA,,,n
+ACSP_2019.08.27,0,NA,Not Detected,y,,,,AATV_2009.01.15,M,63.02,457,Wildtype,NA,,,n
+ACSR_2019.08.29,0,73,Not Detected,n,,,,AATW_2006.07.23,M,75.76,233,Wildtype,NA,,,n
+ACSU_2019.09.01,0,NA,Not Detected,y,,,,AATX_2006.09.07,M,37.3,1615,NOS/NEC,NA,,,n
+ACSZ_2019.02.14,0,437,Not Detected,n,,,,AATY_2011.04.25,M,80.06,98,NOS/NEC,NA,,,n
+ACTA_2019.02.18,0,NA,Not Detected,y,,,,AAUA_2009.05.22,F,80.45,56,NOS/NEC,NA,,,n
+ACTC_2019.01.14,0,222,Not Detected,n,,,,AAUB_2011.06.07,F,67.52,154,Wildtype,NA,,,n
+ACTG_2019.03.29,0,NA,Not Detected,y,,,,AAUC_2008.02.17,F,86.87,276,Wildtype,NA,,,n
+ACTI_2019.02.26,0,NA,Not Detected,y,,,,AAUD_2010.07.25,M,43.42,988,NOS/NEC,NA,,,n
+ACTO_2019.04.08,0,NA,Not Detected,y,,,,AAUE_2006.07.11,F,60.99,146,Wildtype,NA,,,n
+ACTP_2019.01.25,0,NA,Not Detected,y,,,,AAUF_2008.01.07,M,54.49,578,NOS/NEC,NA,,,n
+ACTQ_2019.04.04,0,NA,Not Detected,y,,,,AAUG_2011.02.04,M,75.93,15,NOS/NEC,NA,,,n
+ACTS_2019.03.16,0,NA,Not Detected,y,,,,AAUH_2010.07.22,F,55.87,1829,Wildtype,NA,,,n
+ACTT_2019.05.06,0,366,Not Detected,n,,,,AAUI_2009.08.06,M,85.46,60,NOS/NEC,NA,,,n
+ACTX_2019.04.20,0,547,Not Detected,n,,,,AAUJ_2012.02.14,F,88.5,200,Wildtype,NA,,,n
+ACUD_2019.06.13,0,NA,Not Detected,y,,,,AAUK_2010.09.07,F,55.35,642,Wildtype,NA,,,n
+ACUG_2019.06.18,0,586,Not Detected,n,,,,AAUL_2010.02.13,F,55.09,1346,Wildtype,NA,,,n
+ACUM_2019.01.19,0,NA,Not Detected,n,,,,AAUM_2008.03.06,M,44.46,NA,NOS/NEC,NA,,,y
+ACUO_2019.04.15,0,NA,Not Detected,y,,,,AAUN_2007.10.23,F,69.46,382,NOS/NEC,NA,,,n
+ACUQ_2019.04.17,0,141,Not Detected,n,,,,AAUO_2011.04.13,M,56.66,136,Wildtype,NA,,,n
+ACUR_2019.05.23,0,NA,Not Detected,y,,,,AAUP_2011.03.23,F,57.63,51,NOS/NEC,NA,,,n
+ACUS_2019.02.08,0,NA,Not Detected,y,,,,AAUQ_2007.05.13,M,61.66,1356,NOS/NEC,NA,,,n
+ACUT_2019.05.30,0,233,Not Detected,n,,,,AAUR_2007.01.28,F,71.23,12,Wildtype,NA,,,n
+ACUW_2019.03.15,0,NA,Not Detected,y,,,,AAUS_2011.05.17,F,59.3,250,NOS/NEC,NA,,,n
+ACXF_2019.06.25,0,NA,Not Detected,y,,,,AAUT_2010.03.18,M,79.51,168,NOS/NEC,NA,,,n
+ACYK_2019.09.25,0,NA,Not Detected,y,,,,AAUW_2011.05.04,F,86.21,21,NOS/NEC,NA,,,n
+ACYV_2019.11.07,0,NA,Not Detected,y,,,,AAUX_2012.04.02,M,50.03,1227,Wildtype,Positive,,,n
+ACYX_2019.07.03,0,NA,Not Detected,y,,,,AAUY_2010.05.12,M,52.61,1008,Wildtype,NA,,,n
+ACYY_2019.11.15,0,NA,Not Detected,y,,,,AAUZ_2006.10.12,F,43.97,591,NOS/NEC,NA,,,n
+ACZC_2019.05.09,0,13,Not Detected,n,,,,AAVA_2010.07.13,M,82.36,122,NOS/NEC,NA,,,n
+ACZG_2019.07.20,0,NA,Not Detected,y,,,,AAVB_2011.09.04,M,52.84,182,Wildtype,NA,,,n
+ACZJ_2019.08.11,0,NA,Not Detected,y,,,,AAVC_2010.08.15,M,79.27,346,NOS/NEC,NA,,,n
+ACZL_2019.09.09,0,NA,Not Detected,y,,,,AAVD_2009.02.08,M,59.44,122,NOS/NEC,NA,,,n
+ACZM_2019.08.30,0,NA,Not Detected,y,,,,AAVE_2009.08.02,M,54.24,374,Wildtype,NA,,,n
+ACZN_2019.07.31,0,NA,Not Detected,y,,,,AAVF_2010.09.05,F,83.59,277,NOS/NEC,NA,,,n
+ACZO_2019.06.12,0,NA,Not Detected,y,,,,AAVG_2006.08.30,F,64.24,586,Wildtype,NA,,,n
+ACZP_2019.12.18,0,NA,Not Detected,y,,,,AAVI_2010.01.31,F,61.71,301,Wildtype,NA,,,n
+ACZT_2020.01.16,0,NA,Not Detected,y,,,,AAVJ_2006.12.12,M,45.87,622,Wildtype,NA,,,n
+ADAL_2019.09.18,0,NA,Not Detected,y,,,,AAVK_2010.05.12,F,68.42,1420,Wildtype,NA,,,n
+ADAM_2019.10.09,0,NA,Not Detected,y,,,,AAVL_2012.01.26,M,53.95,3,Wildtype,NA,,,n
+ADAN_2019.10.24,0,NA,Not Detected,y,,,,AAVM_2009.05.17,M,73.03,2307,Wildtype,NA,,,n
+ADAS_2019.10.17,0,NA,Not Detected,y,,,,AAVO_2011.12.31,M,85.74,485,Wildtype,NA,,,n
+ADAW_2019.11.16,0,NA,Not Detected,y,,,,AAVP_2009.09.22,M,76.37,73,NOS/NEC,NA,,,n
+ADBC_2020.01.17,0,NA,Not Detected,y,,,,AAVS_2008.01.23,M,74.52,505,NOS/NEC,NA,,,n
+ADBD_2020.01.27,0,37,Not Detected,n,,,,AAVT_2010.12.12,M,65.07,155,NOS/NEC,NA,,,n
+ADBF_2020.02.07,0,37,Not Detected,n,,,,AAVU_2010.08.08,F,59.29,167,NOS/NEC,NA,,,n
+ADBG_2020.02.07,0,NA,Not Detected,y,,,,AAVV_2007.05.24,M,73.29,393,NOS/NEC,NA,,,n
+ADBH_2020.02.12,0,NA,Not Detected,y,,,,AAVW_2008.12.18,F,77.97,151,Wildtype,NA,,,n
+ADBJ_2020.02.20,0,NA,Not Detected,y,,,,AAVX_2011.08.02,M,67.31,453,Wildtype,NA,,,n
+ADBK_2020.03.03,0,NA,Not Detected,y,,,,AAVY_2009.05.06,F,62.99,925,NOS/NEC,NA,,,n
+ADBL_2020.03.09,0,NA,Not Detected,y,,,,AAVZ_2009.02.01,F,76.69,583,Wildtype,NA,,,n
+ADCX_2020.10.12,0,NA,Not Detected,y,,,,AAWA_2008.10.01,F,72.67,110,NOS/NEC,NA,,,n
+AAAA_2007.01.21,0,960,NA,n,,,,AAWB_2008.12.18,F,69.33,230,NOS/NEC,NA,,,n
+AAAB_2006.10.28,0,291,NA,n,,,,AAWC_2010.06.15,F,49.31,438,Wildtype,NA,,,n
+AAAG_2007.03.15,0,626,NA,n,,,,AAWD_2009.06.16,M,83.54,16,NOS/NEC,NA,,,n
+AAAK_2006.07.25,0,348,NA,n,,,,AAWG_2007.04.05,M,56.3,182,Wildtype,NA,,,n
+AAAL_2006.09.14,0,469,NA,n,,,,AAWH_2007.01.02,F,53.5,138,Wildtype,NA,,,n
+AABA_2007.10.01,0,882,NA,n,,,,AAWI_2006.11.28,M,47.2,379,Wildtype,NA,,,n
+AABE_2008.01.27,0,272,NA,n,,,,AAWJ_2006.07.27,M,43.46,NA,Mutated,NA,,Y,y
+AABT_2009.02.12,0,425,NA,n,,,,AAWK_2007.04.11,F,72.28,78,Wildtype,NA,,,n
+AACB_2010.04.06,0,1882,Not Detected,n,,,,AAWL_2012.09.23,M,67.83,370,Wildtype,NA,,,n
+AAKQ_2010.10.07,0,454,NA,n,,,,AAWM_2012.06.26,F,75.64,187,Wildtype,NA,,,n
+AAKY_2007.06.12,0,710,NA,n,,,,AAWP_2013.01.09,F,63.82,1039,Wildtype,NA,,,n
+AALW_2010.02.24,0,272,NA,n,,,,AAWR_2012.10.19,M,62.82,370,Wildtype,NA,,,n
+AALY_2014.09.09,0,464,Not Detected,n,,,,AAWS_2013.02.28,F,80.6,253,Wildtype,Indeterminate,,,n
+AAME_2007.02.26,0,360,NA,n,,,,AAWT_2012.03.20,F,76.22,480,Wildtype,NA,,,n
+AAMG_2011.04.17,0,371,NA,n,,,,AAWU_2012.04.06,M,63.62,200,Wildtype,NA,,,n
+AAMI_2009.02.05,0,379,NA,n,,,,AAWV_2012.06.14,F,65.89,1148,Wildtype,NA,,,n
+AAMJ_2010.11.14,0,538,NA,n,,,,AAWW_2012.07.03,F,80.89,159,Wildtype,NA,,,n
+AAMK_2009.05.28,0,195,NA,n,,,,AAWX_2012.07.18,M,85.88,78,Wildtype,Positive,,,n
+AAML_2011.02.14,0,437,NA,n,,,,AAWY_2012.11.03,F,71.43,325,Wildtype,NA,,,n
+AAMN_2011.04.17,0,224,NA,n,,,,AAXA_2013.01.09,F,55.7,276,Wildtype,NA,,,n
+AAMO_2010.11.21,0,662,NA,n,,,,AAXB_2013.01.03,F,66.43,419,Wildtype,NA,,,n
+AAMS_2011.04.03,0,396,NA,n,,,,AAXC_2013.02.27,M,59.75,420,Wildtype,Not Detected,,,n
+AAMU_2010.12.14,0,412,NA,n,,,,AAXD_2013.03.13,F,63.42,533,Wildtype,Indeterminate,,,n
+AAMY_2012.02.02,0,74,NA,n,,,,AAXF_2013.04.11,M,75.06,51,Wildtype,Not Detected,,,n
+AANI_2006.12.10,0,445,NA,n,,,,AAXG_2013.06.17,F,63.91,201,Wildtype,NA,,,n
+AANK_2008.03.30,0,427,NA,n,,,,AAXI_2007.01.14,F,45.71,NA,Wildtype,NA,,,y
+AANY_2012.06.29,0,553,NA,n,,,,AAXJ_2007.01.25,F,28.2,1791,Mutated,NA,,,n
+AANZ_2007.11.07,0,291,NA,n,,,,AAXK_2007.02.08,F,59.79,460,Wildtype,NA,,,n
+AAOF_2012.11.07,0,158,Indeterminate,n,,,,AAXL_2006.09.01,F,75.67,167,Wildtype,NA,,,n
+AAOL_2011.03.30,0,24,NA,n,,,,AAXM_2007.12.20,F,67.86,443,NOS/NEC,NA,,,n
+AAOQ_2011.12.21,0,442,NA,n,,,,AAXN_2008.01.13,F,86.95,349,NOS/NEC,NA,,,n
+AAOZ_2014.08.27,0,334,Not Detected,n,,,,AAXO_2007.12.13,M,57.08,400,Wildtype,NA,,,n
+AAPH_2013.06.12,0,400,Not Detected,n,,,,AAXP_2007.09.11,F,64.86,80,NOS/NEC,NA,,,n
+AAPK_2014.09.11,0,200,Not Detected,n,,,,AAXQ_2007.08.30,F,67.2,115,NOS/NEC,NA,,,n
+AAPL_2014.09.14,0,30,Not Detected,n,,,,AAXR_2007.10.09,M,51.04,136,Wildtype,NA,,,n
+AAPM_2014.09.16,0,616,Not Detected,n,,,,AAXV_2007.06.28,M,50.71,NA,NOS/NEC,NA,,,y
+AAPN_2014.09.20,0,383,Not Detected,n,,,,AAXW_2007.04.03,F,80.31,193,Wildtype,NA,,,n
+AAQC_2008.02.21,0,211,NA,n,,,,AAXX_2013.12.31,F,86.64,106,Wildtype,Positive,,,n
+AAQT_2013.08.26,0,173,Not Detected,n,,,,AAYA_2015.01.21,M,75.88,48,Wildtype,Indeterminate,,,n
+AAQX_2013.10.01,0,289,Not Detected,n,,,,AAYC_2015.02.01,M,70.75,580,Wildtype,Not Detected,,,n
+AAQY_2013.12.04,0,226,Not Detected,n,,,,AAYE_2014.12.21,M,66.23,796,Wildtype,Positive,,,n
+AAQZ_2013.10.25,0,284,Not Detected,n,,,,AAYG_2014.12.01,F,61.82,1145,Wildtype,Positive,,,n
+AARH_2013.08.30,0,1525,Not Detected,n,,,,AAYH_2015.01.26,M,53.08,1062,Wildtype,Indeterminate,,,n
+AARP_2013.07.08,0,171,Not Detected,n,,,,AAYI_2008.11.26,F,66.84,390,Wildtype,NA,,,n
+AART_2012.05.21,0,922,Not Detected,n,,,,AAYL_2013.07.10,F,55.13,537,Wildtype,Not Detected,,,n
+AARV_2013.05.01,0,744,Not Detected,n,,,,AAYP_2014.02.28,F,82.8,20,Wildtype,Indeterminate,,,n
+AARW_2013.11.25,0,494,Not Detected,n,,,,AAYQ_2013.07.28,M,56.21,NA,Wildtype,Positive,,,y
+AASA_2014.01.15,0,211,Not Detected,n,,,,AAYU_2008.03.02,F,64.67,58,Wildtype,NA,,,n
+AASG_2014.02.26,0,208,Not Detected,n,,,,AAYV_2009.04.30,M,53.83,473,NOS/NEC,NA,,,n
+AAAM_2007.08.16,1,561,NA,n,,,,AAYW_2008.10.09,M,50.57,739,NOS/NEC,NA,,,n
+AAAN_2007.03.11,1,501,NA,n,,,,AAYZ_2008.03.02,M,76.8,598,NOS/NEC,NA,,,n
+AABP_2008.10.14,1,1358,NA,n,,,,AAZA_2009.01.02,M,41.2,1021,Wildtype,NA,,,n
+AABY_2008.06.05,1,510,NA,n,,,,AAZD_2008.06.22,M,46.9,454,Wildtype,NA,,,n
+AALP_2011.05.08,1,407,NA,n,,,,AAZF_2008.07.17,M,18.65,NA,NOS/NEC,NA,,,y
+AALT_2008.02.06,1,1504,NA,n,,,,AAZH_2008.06.13,M,55.68,403,Wildtype,NA,,,n
+AALZ_2009.11.02,1,364,NA,n,,,,AAZJ_2013.05.16,F,63.42,437,Wildtype,Not Detected,,,n
+AAMA_2011.06.12,1,808,NA,n,,,,ABAB_2012.09.21,M,68.34,655,Wildtype,NA,,,n
+AAMB_2009.09.28,1,664,NA,n,,,,ABAC_2011.08.30,M,57.12,538,Wildtype,NA,,,n
+AAMD_2007.07.10,1,2048,NA,n,,,,ABAE_2012.07.13,F,69.39,550,Wildtype,NA,,,n
+AAMF_2006.10.05,1,598,NA,n,,,,ABAH_2014.08.06,M,68.54,363,Wildtype,Not Detected,,,n
+AAMH_2007.05.17,1,172,NA,n,,,,ABAI_2009.11.13,M,81,352,NOS/NEC,NA,,,n
+AAMM_2010.11.18,1,1159,NA,n,,,,ABAN_2013.07.20,F,82.87,77,Wildtype,Indeterminate,,,n
+AAMP_2010.11.24,1,781,NA,n,,,,ABAP_2012.06.21,F,59.98,427,Wildtype,NA,,,n
+AAMQ_2011.01.30,1,563,NA,n,,,,ABAR_2012.06.19,M,81.78,429,Wildtype,NA,,,n
+AANB_2007.04.25,1,2516,NA,n,,,,ABAS_2014.08.13,M,50.93,781,Mutated,Positive,,,n
+AANM_2009.01.02,1,879,NA,n,,,,ABAV_2012.11.09,M,79.63,31,Wildtype,NA,,,n
+AANN_2010.11.18,1,111,NA,n,,,,ABAW_2013.07.15,F,28.83,445,Mutated,Indeterminate,,,n
+AANX_2007.01.14,1,NA,NA,y,,,,ABAX_2014.05.15,F,82.36,409,Wildtype,Not Detected,,,n
+AAOE_2010.05.04,1,54,NA,n,,,,ABAY_2011.11.09,M,58.61,530,Wildtype,NA,,,n
+AAOS_2012.09.12,1,146,NA,n,,,,ABBE_2009.06.08,M,83.48,29,NOS/NEC,NA,,,n
+AAPB_2014.06.05,1,1475,Positive,n,,,,ABBF_2011.03.10,M,60.4,127,NOS/NEC,NA,,,n
+AAPO_2013.04.18,1,289,Positive,n,,,,ABBG_2014.03.16,F,60.37,112,Wildtype,Not Detected,,,n
+AAPS_2014.11.18,1,709,Positive,n,,,,ABBI_2014.07.20,M,65.19,696,Wildtype,Indeterminate,,,n
+AAPT_2013.10.03,1,524,Positive,n,,,,ABBL_2012.05.13,M,72.15,326,Wildtype,NA,,,n
+AAPV_2015.01.12,1,578,Positive,n,,,,ABBN_2010.10.22,M,49.03,466,NOS/NEC,NA,,,n
+AAQR_2013.08.18,1,87,Positive,n,,,,ABBO_2010.03.12,M,71.07,186,NOS/NEC,NA,,,n
+AAQS_2013.11.25,1,65,Positive,n,,,,ABBR_2009.10.30,M,43.9,148,NOS/NEC,NA,,,n
+AARF_2013.08.14,1,735,Positive,n,,,,ABBT_2013.01.13,F,82.88,NA,Wildtype,NA,,,y
+AARO_2013.10.16,1,990,Positive,n,,,,ABBW_2012.10.24,M,58.18,653,Wildtype,Not Detected,,,n
+AARR_2013.05.17,1,852,Positive,n,,,,ABBZ_2012.02.08,M,59.99,1451,Wildtype,Positive,,,n
+AASF_2014.02.18,1,1527,Positive,n,,,,ABCA_2012.06.13,F,78.58,658,Wildtype,NA,,,n
+AATK_2011.09.04,1,NA,Indeterminate,y,,,,ABCC_2012.11.18,M,71.06,428,Wildtype,Not Detected,,,n
+AATU_2010.12.19,1,846,NA,n,,,,ABCD_2011.02.15,M,76.88,92,NOS/NEC,NA,,,n
+AAUB_2011.06.07,1,154,NA,n,,,,ABCE_2013.09.23,M,51.81,165,Wildtype,NA,,,n
+AAUC_2008.02.17,1,276,NA,n,,,,ABCF_2012.06.19,F,57.03,412,Wildtype,NA,,,n
+AAUG_2011.02.04,1,15,NA,n,,,,ABCG_2013.07.03,M,65.76,205,Wildtype,NA,,,n
+AAUH_2010.07.22,1,1829,NA,n,,,,ABCH_2007.03.09,M,39.19,1034,NOS/NEC,NA,,,n
+AAUT_2010.03.18,1,168,NA,n,,,,ABCI_2014.03.06,F,75.43,75,Wildtype,Positive,,,n
+AAUX_2012.04.02,1,1227,Positive,n,,,,ABCK_2012.10.18,F,73.14,489,Wildtype,NA,,,n
+AAVK_2010.05.12,1,1420,NA,n,,,,ABCL_2014.03.26,M,57.99,334,Wildtype,Not Detected,,,n
+AAVV_2007.05.24,1,393,NA,n,,,,ABCN_2010.03.16,M,76.94,1723,NOS/NEC,NA,,,n
+AAWR_2012.10.19,1,370,NA,n,,,,ABCQ_2013.03.05,M,56.39,1535,Wildtype,Positive,,,n
+AAWV_2012.06.14,1,1148,NA,n,,,,ABCR_2009.06.04,F,70.72,1043,NOS/NEC,NA,,,n
+AAWY_2012.11.03,1,325,NA,n,,,,ABCS_2014.08.24,M,61.42,98,Wildtype,Not Detected,,,n
+AAXK_2007.02.08,1,460,NA,n,,,,ABCT_2012.12.06,M,84.31,1130,Wildtype,Positive,,,n
+AAXX_2013.12.31,1,106,Positive,n,,,,ABCU_2010.06.10,M,52.52,494,NOS/NEC,NA,,,n
+AAYE_2014.12.21,1,796,Positive,n,,,,ABCY_2012.05.28,M,42.88,710,Mutated,NA,,,n
+AAYG_2014.12.01,1,1145,Positive,n,,,,ABDA_2012.03.09,F,45.62,683,Wildtype,NA,,,n
+AAYQ_2013.07.28,1,NA,Positive,y,,,,ABDB_2012.12.19,F,85.46,79,Wildtype,NA,,,n
+ABAB_2012.09.21,1,655,NA,n,,,,ABDC_2012.04.15,F,33.29,170,Wildtype,NA,,,n
+ABAS_2014.08.13,1,781,Positive,n,,,,ABDD_2013.07.14,M,65.26,121,Wildtype,Indeterminate,,,n
+ABBZ_2012.02.08,1,1451,Positive,n,,,,ABDE_2011.12.26,M,73.33,185,Wildtype,NA,,,n
+ABCI_2014.03.06,1,75,Positive,n,,,,ABDF_2012.12.20,F,65.84,368,Wildtype,NA,,,n
+ABCQ_2013.03.05,1,1535,Positive,n,,,,ABDG_2009.12.29,M,63.31,125,NOS/NEC,NA,,,n
+ABCT_2012.12.06,1,1130,Positive,n,,,,ABDH_2012.06.17,F,82.16,341,Wildtype,NA,,,n
+ABDJ_2013.07.19,1,304,Positive,n,,,,ABDI_2012.10.10,M,57.72,370,Wildtype,NA,,,n
+ABDP_2013.01.21,1,558,Indeterminate,n,,,,ABDJ_2013.07.19,F,75.2,304,Wildtype,Positive,,,n
+ABEM_2012.08.29,1,684,Positive,n,,,,ABDK_2011.08.11,M,86.59,74,Wildtype,NA,,,n
+ABEY_2014.07.21,1,622,Positive,n,,,,ABDN_2011.07.10,F,63.02,748,Wildtype,NA,,,n
+ABFB_2015.11.05,1,NA,Positive,y,,,,ABDP_2013.01.21,F,59.47,558,Wildtype,Indeterminate,,,n
+ABFP_2015.06.05,1,996,Positive,n,,,,ABDQ_2008.11.11,F,59.2,111,NOS/NEC,NA,,,n
+ABGB_2015.01.09,1,87,Positive,n,,,,ABDS_2013.05.10,F,73.05,159,Wildtype,Indeterminate,,,n
+ABGD_2015.07.03,1,93,Positive,n,,,,ABDX_2012.11.11,M,70.83,282,Wildtype,NA,,,n
+ABGE_2015.07.23,1,613,Positive,n,,,,ABDY_2013.07.11,F,83.63,13,Wildtype,Not Detected,,,n
+ABGH_2015.05.21,1,404,Positive,n,,,,ABDZ_2014.07.22,M,62.34,385,Wildtype,NA,,,n
+ABGR_2015.07.16,1,240,Positive,n,,,,ABEA_2013.01.16,M,77.86,1483,Wildtype,NA,,,n
+ABGY_2015.03.20,1,589,Positive,n,,,,ABEB_2012.06.16,M,71.01,2068,Wildtype,NA,,,n
+ABGZ_2015.09.10,1,451,Positive,n,,,,ABEE_2012.09.20,F,70.82,325,Wildtype,NA,,,n
+ABHB_2014.12.14,1,516,Positive,n,,,,ABEF_2011.11.29,M,75.38,355,Wildtype,NA,,,n
+ABHC_2015.11.30,1,63,Positive,n,,,,ABEH_2013.04.09,F,59.62,60,Wildtype,Indeterminate,,,n
+ABHD_2015.12.18,1,14,Positive,n,,,,ABEI_2013.03.06,F,72.66,112,Wildtype,NA,,,n
+ABHE_2015.11.22,1,498,Positive,n,,,,ABEM_2012.08.29,M,70.57,684,Wildtype,Positive,,,n
+ABHK_2015.06.01,1,1020,Positive,n,,,,ABEO_2009.10.06,M,58.81,78,Wildtype,NA,,,n
+ABHO_2015.10.19,1,NA,Positive,y,,,,ABEP_2012.10.03,M,67.23,334,Wildtype,NA,,,n
+ABHW_2016.05.29,1,338,Positive,n,,,,ABEQ_2011.08.25,M,68.99,182,Wildtype,NA,,,n
+ABHY_2016.05.01,1,635,Positive,n,,,,ABET_2012.10.15,M,80.2,104,Wildtype,NA,,,n
+ABIB_2016.01.28,1,191,Positive,n,,,,ABEX_2013.01.03,M,56.82,149,Wildtype,NA,,,n
+ABIE_2016.07.10,1,355,Positive,n,,,,ABEY_2014.07.21,M,64.78,622,Wildtype,Positive,,,n
+ABIF_2016.08.24,1,201,Positive,n,,,,ABFB_2015.11.05,F,62.48,NA,Wildtype,Positive,,,y
+ABIG_2016.08.16,1,681,Positive,n,,,,ABFC_2015.03.12,M,42.61,617,Wildtype,Not Detected,,Y,n
+ABIL_2016.01.27,1,510,Positive,n,,,,ABFE_2013.09.16,M,61.3,181,Wildtype,NA,,,n
+ABIO_2016.02.24,1,862,Positive,n,,,,ABFH_2014.04.07,M,73.4,351,Wildtype,Not Detected,,,n
+ABIQ_2016.04.26,1,249,Positive,n,,,,ABFK_2014.07.16,M,66,252,Wildtype,Not Detected,,,n
+ABJY_2015.03.09,1,1410,Positive,n,,,,ABFP_2015.06.05,M,71.63,996,Wildtype,Positive,,,n
+ABKD_2015.05.13,1,NA,Positive,y,,,,ABFU_2014.09.11,F,56.55,536,Wildtype,NA,Y,,n
+ABKO_2015.11.18,1,NA,Positive,y,,,,ABGA_2014.06.24,F,88,124,Wildtype,Indeterminate,,,n
+ABLJ_2016.05.02,1,117,Positive,n,,,,ABGB_2015.01.09,M,83.46,87,Wildtype,Positive,,,n
+ABMI_2016.10.13,1,NA,Positive,y,,,,ABGD_2015.07.03,F,78.89,93,Wildtype,Positive,,,n
+ABML_2017.05.22,1,284,Positive,n,,,,ABGE_2015.07.23,M,57.19,613,Wildtype,Positive,,,n
+ABMV_2016.08.10,1,NA,Positive,y,,,,ABGF_2015.03.16,F,63.87,106,Wildtype,Not Detected,,,n
+ABMX_2016.09.28,1,516,Positive,n,,,,ABGG_2015.03.01,F,78.09,142,Wildtype,Not Detected,,,n
+ABNI_2016.09.06,1,NA,Positive,y,,,,ABGH_2015.05.21,M,65.4,404,Wildtype,Positive,,,n
+ABNJ_2016.11.23,1,651,Positive,n,,,,ABGK_2015.07.22,F,62.63,383,Wildtype,Not Detected,,,n
+ABNK_2017.02.15,1,251,Positive,n,,,,ABGL_2014.12.22,M,33.11,NA,Mutated,Indeterminate,,,y
+ABNW_2017.01.02,1,70,Positive,n,,,,ABGM_2015.02.20,F,71.41,213,Wildtype,Not Detected,,,n
+ABNZ_2017.06.17,1,45,Positive,n,,,,ABGN_2015.02.27,M,50.86,538,Wildtype,Not Detected,,,n
+ABOF_2016.11.26,1,601,Positive,n,,,,ABGO_2015.05.22,M,65.34,416,Wildtype,Not Detected,,,n
+ABOG_2016.08.18,1,336,Positive,n,,,,ABGP_2015.05.26,F,51.75,360,Wildtype,Not Detected,,,n
+ABOJ_2016.06.09,1,392,Positive,n,,,,ABGQ_2015.07.01,M,68.38,443,Wildtype,Not Detected,,,n
+ABOQ_2017.02.08,1,88,Positive,n,,,,ABGR_2015.07.16,M,73.62,240,Wildtype,Positive,,,n
+ABOV_2017.05.25,1,370,Positive,n,,,,ABGS_2015.07.22,F,62.16,133,Wildtype,Not Detected,,,n
+ABOX_2016.12.30,1,515,Positive,n,,,,ABGT_2015.09.18,F,45.54,524,Wildtype,Not Detected,,,n
+ABWS_2016.03.27,1,480,Positive,n,,,,ABGU_2015.02.17,F,66.65,376,Wildtype,NA,,,n
+ABWY_2016.06.22,1,654,Positive,n,,,,ABGW_2014.09.28,F,54.44,319,Wildtype,Not Detected,,,n
+ABXY_2016.07.17,1,681,Positive,n,,,,ABGX_2015.06.04,M,63.59,730,Wildtype,Not Detected,,,n
+ABZB_2015.11.16,1,859,Positive,n,,,,ABGY_2015.03.20,F,83.01,589,Wildtype,Positive,,,n
+ABZK_2016.02.24,1,NA,Positive,y,,,,ABGZ_2015.09.10,M,59.92,451,Wildtype,Positive,,,n
+ABZU_2015.07.31,1,798,Positive,n,,,,ABHA_2015.07.23,M,59.66,114,Wildtype,Not Detected,,,n
+ABZV_2016.12.21,1,493,Positive,n,,,,ABHB_2014.12.14,M,56.37,516,Wildtype,Positive,,,n
+ACBN_2014.08.15,1,1260,Positive,n,,,,ABHC_2015.11.30,M,65.53,63,Wildtype,Positive,,,n
+ACDK_2016.12.24,1,504,Positive,n,,,,ABHD_2015.12.18,F,67.73,14,Wildtype,Positive,,,n
+ACEN_2017.03.27,1,165,Positive,n,,,,ABHE_2015.11.22,M,56.96,498,Wildtype,Positive,,,n
+ACET_2017.01.01,1,NA,Positive,y,,,,ABHF_2015.09.04,M,63.2,373,Wildtype,Not Detected,,,n
+ACEZ_2016.06.27,1,NA,Positive,y,,,,ABHG_2014.10.31,M,57.26,21,Wildtype,Not Detected,,,n
+ACFC_2017.02.20,1,187,Positive,n,,,,ABHH_2015.01.13,F,69.7,216,Wildtype,Indeterminate,,,n
+ACGE_2017.04.20,1,NA,Positive,y,,,,ABHJ_2015.04.22,M,51.81,455,Wildtype,Not Detected,,,n
+ACGK_2017.03.25,1,496,Positive,n,,,,ABHK_2015.06.01,M,74.85,1020,Wildtype,Positive,,,n
+ACHF_2016.08.10,1,1205,Positive,n,,,,ABHL_2015.09.09,M,67.91,114,Wildtype,Not Detected,,,n
+ACIJ_2015.11.27,1,188,Positive,n,,,,ABHM_2015.08.26,M,62.89,443,Wildtype,Not Detected,,,n
+ACIR_2017.09.12,1,NA,Positive,y,,,,ABHN_2015.10.07,M,57.63,93,Wildtype,Not Detected,,Y,n
+ACJL_2016.10.09,1,212,Positive,n,,,,ABHO_2015.10.19,M,63.43,NA,Wildtype,Positive,,,y
+ACJP_2018.02.07,1,NA,Positive,y,,,,ABHQ_2015.11.24,F,68.96,336,Wildtype,Not Detected,,,n
+ACKC_2017.10.09,1,497,Positive,n,,,,ABHR_2014.10.20,F,56.16,322,Wildtype,Not Detected,,,n
+ACKG_2017.11.30,1,462,Positive,n,,,,ABHS_2015.09.20,M,65.52,NA,Wildtype,Low Positive,,,y
+ACKK_2017.12.28,1,NA,Positive,y,,,,ABHT_2015.04.20,M,47.58,341,Wildtype,Not Detected,,,n
+ACKN_2018.04.29,1,343,Positive,n,,,,ABHU_2015.09.21,F,71.55,NA,Wildtype,Low Positive,,,y
+ACKO_2018.04.29,1,471,Positive,n,,,,ABHV_2015.11.03,M,69.36,342,Wildtype,Not Detected,,,n
+ACKP_2018.01.05,1,414,Positive,n,,,,ABHW_2016.05.29,M,60.67,338,Wildtype,Positive,,,n
+ACKQ_2018.03.14,1,7,Positive,n,,,,ABHX_2016.04.25,F,83.43,480,Wildtype,Not Detected,,Y,n
+ACKR_2018.03.12,1,376,Positive,n,,,,ABHY_2016.05.01,F,65.75,635,Wildtype,Positive,,,n
+ACKV_2018.02.01,1,127,Positive,n,,,,ABHZ_2015.12.21,F,64.16,503,Wildtype,Not Detected,,,n
+ACKY_2018.06.11,1,356,Positive,n,,,,ABIA_2016.06.08,F,72.22,151,Wildtype,Not Detected,Y,,n
+ACLI_2018.05.30,1,376,Positive,n,,,,ABIB_2016.01.28,M,68.19,191,Wildtype,Positive,,,n
+ACLP_2017.11.14,1,376,Positive,n,,,,ABIC_2016.02.19,M,66.36,688,Wildtype,Low Positive,,,n
+ACLV_2017.09.25,1,302,Positive,n,,,,ABID_2016.07.01,F,66.34,57,Wildtype,Not Detected,,,n
+ACLY_2017.09.29,1,350,Positive,n,,,,ABIE_2016.07.10,M,71.33,355,Wildtype,Positive,,,n
+ACMB_2017.11.30,1,NA,Positive,y,,,,ABIF_2016.08.24,M,66.52,201,Wildtype,Positive,,,n
+ACMD_2017.12.12,1,449,Positive,n,,,,ABIG_2016.08.16,F,73.77,681,Wildtype,Positive,Y,,n
+ACMJ_2018.02.21,1,NA,Positive,y,,,,ABIK_2015.11.27,F,59.47,565,Wildtype,Not Detected,,,n
+ACMK_2018.03.13,1,NA,Positive,y,,,,ABIL_2016.01.27,F,72.71,510,Wildtype,Positive,,,n
+ACML_2018.02.24,1,NA,Positive,y,,,,ABIM_2016.02.10,M,47.9,423,Wildtype,Not Detected,,Y,n
+ACMN_2018.03.04,1,NA,Positive,y,,,,ABIN_2016.02.18,M,52.12,531,Wildtype,Not Detected,,,n
+ACMP_2018.03.29,1,NA,Positive,y,,,,ABIO_2016.02.24,M,63.11,862,Wildtype,Positive,,,n
+ACND_2018.07.24,1,NA,Positive,y,,,,ABIP_2016.03.30,M,48.47,827,Wildtype,Not Detected,,,n
+ACNF_2018.08.27,1,466,Positive,n,,,,ABIQ_2016.04.26,M,82.67,249,Wildtype,Positive,,,n
+ACNG_2018.08.17,1,NA,Positive,y,,,,ABIR_2016.06.29,F,62.53,100,Wildtype,Not Detected,,,n
+ACNI_2018.08.20,1,NA,Positive,y,,,,ABIS_2016.07.15,F,37.53,NA,Wildtype,Not Detected,,,y
+ACNP_2018.07.27,1,NA,Positive,y,,,,ABIZ_2013.07.01,F,59.76,1863,Wildtype,Indeterminate,,,n
+ACNS_2018.07.27,1,61,Positive,n,,,,ABJY_2015.03.09,F,49.61,1410,Wildtype,Positive,,,n
+ACNT_2018.08.12,1,26,Positive,n,,,,ABKC_2015.04.26,M,59.89,518,Wildtype,Not Detected,,,n
+ACNZ_2018.08.04,1,NA,Positive,y,,,,ABKD_2015.05.13,F,63.36,NA,Wildtype,Positive,,,y
+ACOC_2018.09.25,1,NA,Positive,y,,,,ABKI_2014.04.11,M,60.7,765,Wildtype,Not Detected,,,n
+ACOI_2018.10.30,1,NA,Positive,y,,,,ABKK_2015.09.30,M,67.7,NA,Wildtype,Positive,,,y
+ACOK_2018.10.23,1,NA,Positive,y,,,,ABKL_2015.10.08,F,77.45,303,Wildtype,Low Positive,,,n
+ACOM_2018.11.05,1,252,Positive,n,,,,ABKN_2015.10.24,M,80.46,NA,Wildtype,Positive,,,y
+ACOY_2018.09.13,1,NA,Positive,y,,,,ABKO_2015.11.18,M,74.89,NA,Wildtype,Positive,,,y
+ACPM_2018.10.25,1,NA,Positive,y,,,,ABKP_2015.11.25,M,55.17,820,Wildtype,Not Detected,,,n
+ACPN_2018.11.01,1,NA,Positive,y,,,,ABKR_2015.12.14,F,21.77,NA,Mutated,Positive,,,y
+ACRG_2016.03.25,1,NA,Positive,y,,,,ABKU_2016.01.31,F,73.15,136,Wildtype,Not Detected,,,n
+ACSK_2019.02.07,1,183,Positive,n,,,,ABKV_2016.02.03,M,64.76,374,Wildtype,Not Detected,,,n
+ACSM_2019.03.13,1,126,Positive,n,,,,ABKX_2016.02.13,M,73.66,166,Wildtype,Not Detected,,,n
+ACSV_2019.08.22,1,NA,Positive,y,,,,ABKY_2016.02.14,F,53.04,NA,Wildtype,Positive,,,y
+ACSY_2019.05.13,1,NA,Positive,y,,,,ABLA_2016.02.21,F,79.94,125,Wildtype,Not Detected,,,n
+ACTB_2019.04.01,1,NA,Positive,y,,,,ABLD_2016.02.29,F,60.63,582,Wildtype,Not Detected,,,n
+ACTU_2019.06.03,1,NA,Positive,y,,,,ABLE_2016.03.08,M,45.23,626,Wildtype,Not Detected,,,n
+ACTW_2019.04.09,1,NA,Positive,y,,,,ABLF_2016.03.14,F,66.18,70,Wildtype,Not Detected,,,n
+ACUA_2019.06.25,1,NA,Positive,y,,,,ABLG_2016.04.07,F,56.94,205,Wildtype,Not Detected,,,n
+ACUB_2019.03.12,1,NA,Positive,y,,,,ABLH_2016.04.13,F,67.09,389,Wildtype,Not Detected,,,n
+ACUF_2019.05.16,1,NA,Positive,y,,,,ABLI_2016.04.19,F,53.02,82,Wildtype,Indeterminate,,,n
+ACUH_2019.01.15,1,NA,Positive,y,,,,ABLJ_2016.05.02,M,81.77,117,Wildtype,Positive,,,n
+ACUU_2019.02.24,1,NA,Positive,y,,,,ABLK_2016.05.14,F,47.21,264,Wildtype,Low Positive,,,n
+ACUV_2019.04.24,1,NA,Positive,y,,,,ABLL_2016.05.20,M,54.22,NA,Wildtype,Low Positive,,Y,y
+ACVA_2019.03.02,1,NA,Positive,y,,,,ABMF_2017.02.14,M,65.03,619,Wildtype,Not Detected,,,n
+ACVB_2019.04.10,1,15,Positive,n,,,,ABMG_2016.11.17,F,80.36,90,Wildtype,Low Positive,,,n
+ACVJ_2019.01.03,1,205,Positive,n,,,,ABMH_2016.11.16,M,78.4,60,Wildtype,Positive,,,n
+ACYW_2019.11.02,1,NA,Positive,y,,,,ABMI_2016.10.13,M,25.48,NA,Mutated,Positive,,,y
+ACZB_2019.03.19,1,89,Positive,n,,,,ABML_2017.05.22,F,60.23,284,Wildtype,Positive,,,n
+ACZF_2019.07.09,1,NA,Positive,y,,,,ABMM_2017.02.13,F,67.67,NA,Wildtype,Positive,,,y
+ACZI_2019.08.07,1,NA,Positive,y,,,,ABMO_2016.11.10,M,78.7,248,Wildtype,Not Detected,,,n
+ACZK_2019.08.14,1,NA,Positive,y,,,,ABMP_2017.01.07,M,62.34,288,Wildtype,Not Detected,,,n
+ACZQ_2019.06.03,1,NA,Positive,y,,,,ABMQ_2016.09.21,M,48.97,742,Wildtype,Not Detected,,,n
+ACZR_2019.12.20,1,NA,Positive,y,,,,ABMR_2016.08.24,M,59.37,764,Wildtype,Not Detected,,,n
+ACZU_2019.12.18,1,NA,Positive,y,,,,ABMT_2017.07.03,F,64.83,NA,Wildtype,Indeterminate,,,y
+ADAE_2019.09.25,1,NA,Positive,y,,,,ABMU_2016.08.18,M,53.19,680,Wildtype,Not Detected,,,n
+ADBB_2020.01.05,1,NA,Positive,y,,,,ABMV_2016.08.10,M,69.45,NA,Wildtype,Positive,,,y
+ADBE_2020.01.30,1,NA,Positive,y,,,,ABMW_2017.02.20,F,71.65,136,Wildtype,Not Detected,,,n
+,,,,,,,,ABMX_2016.09.28,M,60.82,516,Wildtype,Positive,,,n
+,,,,,,,,ABMY_2016.11.20,M,63.99,149,Wildtype,Not Detected,,,n
+,,,,,,,,ABMZ_2016.09.16,M,66.58,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ABNA_2016.12.12,M,57.8,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ABNB_2016.11.09,M,38.9,693,Wildtype,Not Detected,,,n
+,,,,,,,,ABNC_2016.12.14,M,61.94,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ABND_2017.04.07,M,64.1,NA,Wildtype,Positive,,,y
+,,,,,,,,ABNF_2017.03.09,F,71.61,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ABNG_2016.07.04,M,65.97,738,Wildtype,Not Detected,,,n
+,,,,,,,,ABNH_2016.10.14,F,25.57,479,Wildtype,Not Detected,,,n
+,,,,,,,,ABNI_2016.09.06,M,58.92,NA,Wildtype,Positive,,,y
+,,,,,,,,ABNJ_2016.11.23,M,73.59,651,Wildtype,Positive,,,n
+,,,,,,,,ABNK_2017.02.15,M,55.42,251,Wildtype,Positive,,,n
+,,,,,,,,ABNL_2016.11.04,M,79.32,196,Wildtype,NA,,,n
+,,,,,,,,ABNM_2017.01.30,F,51.54,578,Wildtype,Low Positive,,,n
+,,,,,,,,ABNN_2017.04.21,M,60.59,316,Wildtype,Not Detected,,,n
+,,,,,,,,ABNO_2016.11.02,M,69.2,114,Wildtype,Not Detected,,Y,n
+,,,,,,,,ABNP_2016.08.15,F,58.86,NA,Wildtype,NA,,,y
+,,,,,,,,ABNQ_2016.10.04,F,20.74,36,Wildtype,Not Detected,,,n
+,,,,,,,,ABNR_2016.12.08,M,67.63,692,Wildtype,Low Positive,,,n
+,,,,,,,,ABNS_2017.06.27,M,62.74,44,Wildtype,Not Detected,,,n
+,,,,,,,,ABNT_2017.06.04,M,60.63,516,Wildtype,Not Detected,,,n
+,,,,,,,,ABNU_2016.12.12,M,55.09,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ABNW_2017.01.02,M,69.38,70,Wildtype,Positive,,,n
+,,,,,,,,ABNY_2016.06.09,M,63.03,117,Wildtype,NA,,,n
+,,,,,,,,ABNZ_2017.06.17,F,57.2,45,Wildtype,Positive,Y,,n
+,,,,,,,,ABOA_2016.05.14,F,64.28,168,Wildtype,Not Detected,,,n
+,,,,,,,,ABOC_2017.06.23,M,72.91,52,Wildtype,Not Detected,,,n
+,,,,,,,,ABOE_2017.03.03,M,45.97,256,Wildtype,Not Detected,,,n
+,,,,,,,,ABOF_2016.11.26,F,51.23,601,Wildtype,Positive,,,n
+,,,,,,,,ABOG_2016.08.18,M,63.76,336,Wildtype,Positive,Y,,n
+,,,,,,,,ABOH_2016.12.23,F,48.71,610,Wildtype,Not Detected,,,n
+,,,,,,,,ABOI_2016.08.30,F,63.4,NA,Wildtype,Not Detected,Y,,y
+,,,,,,,,ABOJ_2016.06.09,M,65.71,392,Wildtype,Positive,Y,,n
+,,,,,,,,ABOK_2017.06.13,F,61.02,192,Wildtype,Not Detected,,,n
+,,,,,,,,ABOM_2017.02.21,F,61.05,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ABON_2016.09.23,F,25.7,NA,Mutated,Not Detected,,,y
+,,,,,,,,ABOO_2017.01.27,F,71.68,371,Wildtype,Not Detected,,,n
+,,,,,,,,ABOP_2017.06.26,F,62.73,NA,Wildtype,NA,Y,,y
+,,,,,,,,ABOQ_2017.02.08,F,54.95,88,Wildtype,Positive,Y,,n
+,,,,,,,,ABOR_2016.05.24,M,71.68,278,Wildtype,Not Detected,Y,,n
+,,,,,,,,ABOT_2016.11.28,M,60.38,395,Wildtype,Not Detected,,,n
+,,,,,,,,ABOV_2017.05.25,M,64.91,370,Wildtype,Positive,,,n
+,,,,,,,,ABOW_2016.09.27,M,68.86,175,Wildtype,Not Detected,,,n
+,,,,,,,,ABOX_2016.12.30,F,60.29,515,Wildtype,Positive,Y,,n
+,,,,,,,,ABPD_2016.09.22,M,74.58,821,Wildtype,Not Detected,,,n
+,,,,,,,,ABQT_2013.09.04,F,65.25,16,Wildtype,NA,,,n
+,,,,,,,,ABRF_2013.03.01,F,56.25,397,Wildtype,Not Detected,,,n
+,,,,,,,,ABWQ_2016.07.05,F,70.49,482,Wildtype,Not Detected,,,n
+,,,,,,,,ABWS_2016.03.27,M,51.56,480,Wildtype,Positive,,,n
+,,,,,,,,ABWY_2016.06.22,M,67.64,654,Wildtype,Positive,Y,,n
+,,,,,,,,ABXA_2016.10.05,M,67.92,483,Wildtype,Not Detected,,,n
+,,,,,,,,ABXC_2012.10.12,M,52.59,1477,NOS/NEC,NA,Y,,n
+,,,,,,,,ABXK_2016.03.09,F,57.89,454,NOS/NEC,NA,Y,,n
+,,,,,,,,ABXV_2016.09.13,M,51.9,524,NOS/NEC,NA,Y,,n
+,,,,,,,,ABXX_2016.04.09,F,46.46,413,NOS/NEC,NA,Y,,n
+,,,,,,,,ABXY_2016.07.17,F,54.26,681,Wildtype,Positive,,,n
+,,,,,,,,ABZB_2015.11.16,M,45.31,859,Wildtype,Positive,,,n
+,,,,,,,,ABZK_2016.02.24,F,54.4,NA,Wildtype,Positive,,,y
+,,,,,,,,ABZU_2015.07.31,F,59.84,798,Wildtype,Positive,Y,,n
+,,,,,,,,ABZV_2016.12.21,F,57.61,493,Wildtype,Positive,,,n
+,,,,,,,,ACBM_2013.12.06,M,75.08,648,Wildtype,Not Detected,,,n
+,,,,,,,,ACBN_2014.08.15,F,58.65,1260,NOS/NEC,Positive,,,n
+,,,,,,,,ACDB_2016.06.13,F,62.97,596,Wildtype,Not Detected,,,n
+,,,,,,,,ACDC_2017.01.31,F,74.54,213,Wildtype,Not Detected,Y,,n
+,,,,,,,,ACDK_2016.12.24,M,64.3,504,Wildtype,Positive,Y,,n
+,,,,,,,,ACDS_2016.01.02,M,77.52,1025,Wildtype,NA,,,n
+,,,,,,,,ACED_2016.06.12,F,22.79,99,Wildtype,Not Detected,,,n
+,,,,,,,,ACEE_2017.01.13,F,23.61,NA,Wildtype,NA,,,y
+,,,,,,,,ACEN_2017.03.27,M,81.91,165,Wildtype,Positive,Y,,n
+,,,,,,,,ACET_2017.01.01,M,48.81,NA,Wildtype,Positive,,,y
+,,,,,,,,ACEW_2016.06.24,M,69.17,590,Wildtype,Not Detected,,,n
+,,,,,,,,ACEZ_2016.06.27,M,49.4,NA,Wildtype,Positive,,,y
+,,,,,,,,ACFC_2017.02.20,M,83.37,187,Wildtype,Positive,,,n
+,,,,,,,,ACFD_2016.09.28,M,56.07,572,Wildtype,Not Detected,,,n
+,,,,,,,,ACFG_2017.02.18,F,68.75,710,Wildtype,Low Positive,,,n
+,,,,,,,,ACFY_2017.01.12,M,76.2,74,Wildtype,Not Detected,,,n
+,,,,,,,,ACFZ_2016.10.24,M,61.62,347,Wildtype,Not Detected,Y,,n
+,,,,,,,,ACGE_2017.04.20,M,68.57,NA,Wildtype,Positive,,,y
+,,,,,,,,ACGK_2017.03.25,M,74.45,496,Wildtype,Positive,,,n
+,,,,,,,,ACHB_2016.08.17,M,76.86,50,Wildtype,Not Detected,,,n
+,,,,,,,,ACHF_2016.08.10,M,68.67,1205,Wildtype,Positive,,,n
+,,,,,,,,ACIE_2016.09.08,M,49.52,170,Wildtype,Not Detected,,,n
+,,,,,,,,ACIJ_2015.11.27,F,58.98,188,Wildtype,Positive,,,n
+,,,,,,,,ACIK_2017.05.09,M,53.34,285,Wildtype,Not Detected,,,n
+,,,,,,,,ACIR_2017.09.12,M,51.47,NA,Wildtype,Positive,,,y
+,,,,,,,,ACJC_2016.12.17,M,32.93,468,Wildtype,Not Detected,,,n
+,,,,,,,,ACJG_2017.03.07,M,53.98,377,Wildtype,Not Detected,,,n
+,,,,,,,,ACJL_2016.10.09,M,87.02,212,Wildtype,Positive,Y,,n
+,,,,,,,,ACJM_2016.11.15,M,83.61,122,Wildtype,Positive,,,n
+,,,,,,,,ACJP_2018.02.07,F,64.21,NA,Wildtype,Positive,,,y
+,,,,,,,,ACJR_2017.01.03,M,70.24,732,Wildtype,Not Detected,Y,,n
+,,,,,,,,ACJS_2018.06.12,M,66.16,199,Wildtype,Not Detected,,,n
+,,,,,,,,ACJT_2018.05.07,F,60.06,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACJU_2018.01.21,M,72.97,53,Wildtype,Positive,,,n
+,,,,,,,,ACJV_2017.11.24,M,76.15,157,Wildtype,Not Detected,,,n
+,,,,,,,,ACJW_2017.12.10,F,75.19,32,Wildtype,Low Positive,,,n
+,,,,,,,,ACJX_2018.07.10,M,71.76,248,Wildtype,Not Detected,,,n
+,,,,,,,,ACJY_2018.04.06,M,43.53,598,Wildtype,Not Detected,,,n
+,,,,,,,,ACJZ_2017.11.13,M,73.05,85,Wildtype,Not Detected,,,n
+,,,,,,,,ACKA_2018.06.19,M,60.66,521,Wildtype,Low Positive,,,n
+,,,,,,,,ACKB_2018.04.17,M,78.21,448,Wildtype,Not Detected,,,n
+,,,,,,,,ACKC_2017.10.09,F,56.09,497,Wildtype,Positive,,,n
+,,,,,,,,ACKD_2017.10.30,F,61.89,784,Wildtype,Not Detected,,,n
+,,,,,,,,ACKE_2017.10.22,F,61.74,707,Wildtype,Positive,,,n
+,,,,,,,,ACKF_2018.02.22,F,72.25,215,Wildtype,Not Detected,,,n
+,,,,,,,,ACKG_2017.11.30,M,66.7,462,Wildtype,Positive,,,n
+,,,,,,,,ACKH_2017.09.16,M,77.39,127,Wildtype,Not Detected,,,n
+,,,,,,,,ACKJ_2018.02.26,M,56.26,NA,Wildtype,Low Positive,,,y
+,,,,,,,,ACKK_2017.12.28,F,61.42,NA,Wildtype,Positive,,,y
+,,,,,,,,ACKM_2016.08.29,F,66.3,493,Wildtype,Not Detected,Y,,n
+,,,,,,,,ACKN_2018.04.29,M,70.81,343,Wildtype,Positive,,,n
+,,,,,,,,ACKO_2018.04.29,M,52.97,471,Wildtype,Positive,,,n
+,,,,,,,,ACKP_2018.01.05,M,65.51,414,Wildtype,Positive,,,n
+,,,,,,,,ACKQ_2018.03.14,M,73.86,7,Wildtype,Positive,,,n
+,,,,,,,,ACKR_2018.03.12,M,73.91,376,Wildtype,Positive,,,n
+,,,,,,,,ACKU_2017.10.16,F,73.72,37,Wildtype,Not Detected,,,n
+,,,,,,,,ACKV_2018.02.01,M,67.11,127,Wildtype,Positive,,,n
+,,,,,,,,ACKW_2018.02.14,M,67.72,121,Wildtype,Not Detected,,Y,n
+,,,,,,,,ACKY_2018.06.11,M,67.5,356,Wildtype,Positive,,,n
+,,,,,,,,ACLB_2017.11.29,F,61.33,490,Wildtype,Not Detected,,,n
+,,,,,,,,ACLE_2018.04.16,M,59.59,26,Wildtype,NA,Y,,n
+,,,,,,,,ACLH_2018.02.15,M,72.03,166,Wildtype,Not Detected,,,n
+,,,,,,,,ACLI_2018.05.30,M,71.27,376,Wildtype,Positive,,,n
+,,,,,,,,ACLJ_2017.09.19,M,78.13,384,Wildtype,Not Detected,,,n
+,,,,,,,,ACLK_2018.02.11,F,59.62,NA,Mutated,Positive,,,y
+,,,,,,,,ACLN_2018.02.15,F,71.24,229,Wildtype,Not Detected,Y,,n
+,,,,,,,,ACLP_2017.11.14,M,51.24,376,Wildtype,Positive,,Y,n
+,,,,,,,,ACLV_2017.09.25,M,72.82,302,Wildtype,Positive,,,n
+,,,,,,,,ACLX_2017.09.13,M,73.05,434,Wildtype,Low Positive,,,n
+,,,,,,,,ACLY_2017.09.29,F,59.21,350,Mutated,Positive,,,n
+,,,,,,,,ACLZ_2017.10.12,F,20.1,447,Wildtype,Not Detected,,,n
+,,,,,,,,ACMB_2017.11.30,F,20.79,NA,Mutated,Positive,Y,,y
+,,,,,,,,ACMC_2017.12.11,F,79.16,430,Wildtype,Not Detected,,,n
+,,,,,,,,ACMD_2017.12.12,F,73.32,449,Wildtype,Positive,,,n
+,,,,,,,,ACME_2017.12.12,M,67.95,273,Wildtype,Not Detected,,,n
+,,,,,,,,ACMF_2017.12.15,F,72.82,80,Wildtype,Indeterminate,,,n
+,,,,,,,,ACMG_2018.01.14,M,81.42,33,Wildtype,Not Detected,,,n
+,,,,,,,,ACMI_2018.05.21,M,28.11,36,Wildtype,Not Detected,,,n
+,,,,,,,,ACMJ_2018.02.21,M,36.32,NA,Mutated,Positive,,,y
+,,,,,,,,ACMK_2018.03.13,F,58.63,NA,Wildtype,Positive,,Y,y
+,,,,,,,,ACML_2018.02.24,M,67.77,NA,Wildtype,Positive,,,y
+,,,,,,,,ACMM_2018.02.23,F,53.39,641,Wildtype,Not Detected,Y,,n
+,,,,,,,,ACMN_2018.03.04,M,38.86,NA,Wildtype,Positive,,,y
+,,,,,,,,ACMO_2018.05.09,M,71.62,NA,Wildtype,Positive,,,y
+,,,,,,,,ACMP_2018.03.29,M,41.24,NA,Mutated,Positive,,,y
+,,,,,,,,ACMQ_2018.04.01,M,64.79,259,Wildtype,Not Detected,,,n
+,,,,,,,,ACMR_2018.04.04,F,75.39,81,NOS/NEC,Low Positive,,Y,n
+,,,,,,,,ACMS_2018.04.18,F,74.22,104,Wildtype,Not Detected,,,n
+,,,,,,,,ACMT_2018.04.27,F,60.73,203,Wildtype,Not Detected,,,n
+,,,,,,,,ACMU_2018.05.22,M,76.13,234,Wildtype,Not Detected,,,n
+,,,,,,,,ACMW_2018.06.08,F,76.93,153,Wildtype,Not Detected,,,n
+,,,,,,,,ACMY_2018.06.20,M,87.59,440,Wildtype,Not Detected,,,n
+,,,,,,,,ACNC_2018.08.12,F,64.92,NA,Wildtype,Positive,,,y
+,,,,,,,,ACND_2018.07.24,M,67.87,NA,Wildtype,Positive,,,y
+,,,,,,,,ACNF_2018.08.27,M,77.99,466,Wildtype,Positive,Y,,n
+,,,,,,,,ACNG_2018.08.17,F,58.51,NA,Wildtype,Positive,,,y
+,,,,,,,,ACNI_2018.08.20,F,68.11,NA,Wildtype,Positive,,,y
+,,,,,,,,ACNJ_2018.07.31,M,54.63,324,Wildtype,Not Detected,,,n
+,,,,,,,,ACNK_2018.12.05,M,78.03,NA,Wildtype,Positive,,,y
+,,,,,,,,ACNM_2018.09.10,M,51.88,123,Wildtype,Not Detected,,,n
+,,,,,,,,ACNN_2018.07.21,M,75.32,NA,Wildtype,Not Detected,,Y,y
+,,,,,,,,ACNO_2018.09.09,M,60.48,147,Wildtype,Not Detected,,,n
+,,,,,,,,ACNP_2018.07.27,F,70.64,NA,Wildtype,Positive,,,y
+,,,,,,,,ACNR_2018.07.18,M,63.68,154,Wildtype,Not Detected,,,n
+,,,,,,,,ACNS_2018.07.27,M,61.97,61,Wildtype,Positive,,Y,n
+,,,,,,,,ACNT_2018.08.12,M,80.93,26,Wildtype,Positive,,,n
+,,,,,,,,ACNU_2018.08.01,F,69.22,297,Wildtype,Not Detected,,Y,n
+,,,,,,,,ACNV_2018.08.24,M,63.14,292,Wildtype,Not Detected,Y,,n
+,,,,,,,,ACNW_2018.08.22,M,75.92,59,Wildtype,Not Detected,,,n
+,,,,,,,,ACNX_2018.08.01,F,29.83,303,Wildtype,Not Detected,Y,,n
+,,,,,,,,ACNZ_2018.08.04,F,52.33,NA,Mutated,Positive,,,y
+,,,,,,,,ACOB_2018.08.20,M,57.82,223,Wildtype,Not Detected,,,n
+,,,,,,,,ACOC_2018.09.25,M,52.3,NA,Wildtype,Positive,,Y,y
+,,,,,,,,ACOD_2018.10.03,M,69.12,NA,Wildtype,Positive,,,y
+,,,,,,,,ACOE_2018.09.25,F,81.95,46,Wildtype,Not Detected,,,n
+,,,,,,,,ACOF_2018.09.30,F,61.92,381,Wildtype,Not Detected,,,n
+,,,,,,,,ACOG_2018.10.02,F,61.56,NA,Wildtype,Low Positive,,,y
+,,,,,,,,ACOH_2018.10.10,M,60.01,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACOI_2018.10.30,M,51.52,NA,Wildtype,Positive,,Y,y
+,,,,,,,,ACOJ_2018.10.20,M,59.69,435,Wildtype,Not Detected,,,n
+,,,,,,,,ACOK_2018.10.23,M,68.72,NA,Wildtype,Positive,Y,,y
+,,,,,,,,ACOM_2018.11.05,M,77.19,252,Wildtype,Positive,,,n
+,,,,,,,,ACON_2018.11.07,M,57.72,NA,Wildtype,Positive,,,y
+,,,,,,,,ACOO_2018.11.26,F,62,234,Wildtype,Not Detected,,Y,n
+,,,,,,,,ACOP_2018.11.01,F,82.22,NA,Wildtype,Positive,Y,,y
+,,,,,,,,ACOR_2018.12.04,M,60.38,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACOW_2018.08.18,F,76.61,93,Wildtype,Not Detected,,,n
+,,,,,,,,ACOY_2018.09.13,M,58.12,NA,Wildtype,Positive,,Y,y
+,,,,,,,,ACPG_2019.01.04,M,62.94,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACPK_2019.01.15,M,73,12,Wildtype,Not Detected,,,n
+,,,,,,,,ACPM_2018.10.25,F,68.15,NA,Wildtype,Positive,,,y
+,,,,,,,,ACPN_2018.11.01,F,79.9,NA,Wildtype,Positive,,,y
+,,,,,,,,ACPO_2017.12.28,M,29.01,138,Wildtype,Not Detected,,,n
+,,,,,,,,ACPV_2018.12.21,M,47.44,NA,Mutated,Positive,,,y
+,,,,,,,,ACRB_2014.07.25,M,58.09,551,Wildtype,Not Detected,,,n
+,,,,,,,,ACRG_2016.03.25,M,57.84,NA,Wildtype,Positive,,,y
+,,,,,,,,ACSK_2019.02.07,M,51.04,183,Wildtype,Positive,,,n
+,,,,,,,,ACSL_2019.02.28,M,64.41,726,Wildtype,Not Detected,,,n
+,,,,,,,,ACSM_2019.03.13,F,79.74,126,Wildtype,Positive,,,n
+,,,,,,,,ACSP_2019.08.27,M,69.36,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACSR_2019.08.29,M,81.49,73,Wildtype,Not Detected,,,n
+,,,,,,,,ACSU_2019.09.01,M,68.17,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACSV_2019.08.22,F,84.15,NA,Wildtype,Positive,,,y
+,,,,,,,,ACSX_2019.02.13,F,53.23,NA,Wildtype,Low Positive,,,y
+,,,,,,,,ACSY_2019.05.13,F,65.35,NA,Wildtype,Positive,,,y
+,,,,,,,,ACSZ_2019.02.14,M,60.44,437,Wildtype,Not Detected,,,n
+,,,,,,,,ACTA_2019.02.18,F,77.89,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACTB_2019.04.01,M,67.15,NA,Wildtype,Positive,,,y
+,,,,,,,,ACTC_2019.01.14,M,87.76,222,Wildtype,Not Detected,,,n
+,,,,,,,,ACTD_2019.06.17,M,58.42,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACTE_2019.04.11,M,66.71,NA,Wildtype,Low Positive,Y,,y
+,,,,,,,,ACTG_2019.03.29,F,57.84,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACTI_2019.02.26,M,55.41,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACTJ_2018.12.30,M,46.14,NA,NOS/NEC,NA,Y,,y
+,,,,,,,,ACTO_2019.04.08,M,60.95,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACTP_2019.01.25,M,68.41,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACTQ_2019.04.04,M,67.1,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACTS_2019.03.16,M,85.27,NA,Wildtype,Not Detected,Y,,y
+,,,,,,,,ACTT_2019.05.06,M,58.51,366,Wildtype,Not Detected,,,n
+,,,,,,,,ACTU_2019.06.03,M,66.16,NA,Wildtype,Positive,,,y
+,,,,,,,,ACTV_2019.01.02,F,89.95,NA,Wildtype,Low Positive,,,y
+,,,,,,,,ACTW_2019.04.09,F,71.55,NA,Wildtype,Positive,,,y
+,,,,,,,,ACTX_2019.04.20,M,72.11,547,Wildtype,Not Detected,,,n
+,,,,,,,,ACUA_2019.06.25,M,65.83,NA,Wildtype,Positive,,,y
+,,,,,,,,ACUB_2019.03.12,F,66.82,NA,Wildtype,Positive,,,y
+,,,,,,,,ACUC_2019.05.09,F,65.75,342,Wildtype,Not Detected,,,n
+,,,,,,,,ACUD_2019.06.13,F,65.77,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACUF_2019.05.16,F,45.92,NA,Wildtype,Positive,,,y
+,,,,,,,,ACUG_2019.06.18,F,56.13,586,Wildtype,Not Detected,,,n
+,,,,,,,,ACUH_2019.01.15,M,54.93,NA,Wildtype,Positive,,,y
+,,,,,,,,ACUM_2019.01.19,M,55.35,N/A,Wildtype,Not Detected,Y,,n
+,,,,,,,,ACUO_2019.04.15,F,59.02,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACUQ_2019.04.17,M,74.18,141,Wildtype,Not Detected,Y,,n
+,,,,,,,,ACUR_2019.05.23,M,68.36,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACUS_2019.02.08,F,34.65,NA,Wildtype,Not Detected,Y,,y
+,,,,,,,,ACUT_2019.05.30,F,73.59,233,Wildtype,Not Detected,,,n
+,,,,,,,,ACUU_2019.02.24,F,84.65,NA,Wildtype,Positive,,Y,y
+,,,,,,,,ACUV_2019.04.24,M,64.91,NA,Wildtype,Positive,,,y
+,,,,,,,,ACUW_2019.03.15,F,53.78,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACVA_2019.03.02,M,61.4,NA,Wildtype,Positive,,,y
+,,,,,,,,ACVB_2019.04.10,F,89.59,15,Wildtype,Positive,,,n
+,,,,,,,,ACVJ_2019.01.03,F,75.68,205,Wildtype,Positive,,,n
+,,,,,,,,ACXF_2019.06.25,M,63.43,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACYB_2019.06.07,M,51.14,228,Wildtype,NA,Y,,n
+,,,,,,,,ACYI_2019.09.26,M,67.07,NA,Wildtype,Low Positive,,,y
+,,,,,,,,ACYK_2019.09.25,M,51.51,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACYV_2019.11.07,F,56.83,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACYW_2019.11.02,M,58.96,NA,Wildtype,Positive,,,y
+,,,,,,,,ACYX_2019.07.03,M,62.59,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACYY_2019.11.15,M,63.8,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACZB_2019.03.19,M,54.4,89,Wildtype,Positive,,,n
+,,,,,,,,ACZC_2019.05.09,M,77.59,13,Wildtype,Not Detected,,,n
+,,,,,,,,ACZF_2019.07.09,M,54.75,NA,Wildtype,Positive,,,y
+,,,,,,,,ACZG_2019.07.20,F,54.99,NA,Wildtype,Not Detected,,Y,y
+,,,,,,,,ACZI_2019.08.07,M,48.91,NA,Mutated,Positive,,,y
+,,,,,,,,ACZJ_2019.08.11,F,65.41,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACZK_2019.08.14,F,45.61,NA,Wildtype,Positive,,,y
+,,,,,,,,ACZL_2019.09.09,M,57.12,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACZM_2019.08.30,F,67.28,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACZN_2019.07.31,M,71.01,NA,Wildtype,Not Detected,Y,,y
+,,,,,,,,ACZO_2019.06.12,M,69.03,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACZP_2019.12.18,F,57.96,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ACZQ_2019.06.03,M,72.91,NA,Wildtype,Positive,,,y
+,,,,,,,,ACZR_2019.12.20,F,66.2,NA,Wildtype,Positive,,Y,y
+,,,,,,,,ACZT_2020.01.16,F,70.54,NA,Wildtype,Not Detected,,Y,y
+,,,,,,,,ACZU_2019.12.18,M,81.54,NA,Wildtype,Positive,,,y
+,,,,,,,,ADAE_2019.09.25,F,69.13,NA,Wildtype,Positive,,,y
+,,,,,,,,ADAL_2019.09.18,M,71.05,NA,Wildtype,Not Detected,,Y,y
+,,,,,,,,ADAM_2019.10.09,M,52.94,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ADAN_2019.10.24,M,59.02,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ADAR_2018.07.09,F,59.98,NA,NOS/NEC,NA,Y,,y
+,,,,,,,,ADAS_2019.10.17,F,68.16,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ADAW_2019.11.16,M,63.25,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ADBB_2020.01.05,F,64.59,NA,Wildtype,Positive,,,y
+,,,,,,,,ADBC_2020.01.17,F,63.2,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ADBD_2020.01.27,M,61.35,37,Wildtype,Not Detected,,,n
+,,,,,,,,ADBE_2020.01.30,F,64.18,NA,Wildtype,Positive,,,y
+,,,,,,,,ADBF_2020.02.07,M,82.89,37,Wildtype,Not Detected,,,n
+,,,,,,,,ADBG_2020.02.07,M,27.89,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ADBH_2020.02.12,F,54.61,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ADBI_2020.02.17,M,76.15,NA,Wildtype,Low Positive,,,y
+,,,,,,,,ADBJ_2020.02.20,M,82.38,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ADBK_2020.03.03,M,39.9,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ADBL_2020.03.09,F,49.18,NA,Wildtype,Not Detected,,,y
+,,,,,,,,ADCX_2020.10.12,M,41.1,NA,Wildtype,Not Detected,,,y
