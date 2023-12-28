@@ -2,21 +2,18 @@ import os
 import shutil
 import glob
 from typing import List, Tuple
+import pandas as pd
 from tqdm import tqdm
 from PIL import Image
 import nibabel as nib
 import numpy as np
+from file_structuring import FolderStructure
 
 
-class GenerateImages:
+class GenerateImages(FolderStructure):
 
-    def __init__(self, modalities: List[str],
-                 classifications: List[str],
-                 block_size: Tuple[int, int],
-                 stride: int,
-                 inter_dim: Tuple[int, int],
-                 dataset_path: str,
-                 main_dir_path: str):
+    def __init__(self, modalities: List[str], classifications: List[str], block_size: Tuple[int, int], stride: int,
+                 inter_dim: Tuple[int, int], dataset_path: str, main_dir_path: str):
         """
         :param modalities: List[str], 
         :param classifications: List[str], 
@@ -26,17 +23,9 @@ class GenerateImages:
         :param dataset_path: str, 
         :param main_dir_path: str
         """
-        self.modalities = modalities
-        self.classifications = classifications
-        self.block_h, self.block_w = block_size
-        self.stride = stride
-        self.inter_dim = inter_dim
-        self.dataset_path = dataset_path
-        self.main_dir_path = main_dir_path
-        self.org_dir = self.main_dir_path + 'Original_Data_Backup/'
-        self.work_dir = self.main_dir_path + 'Working_Data/'
+        super().__init__(modalities, classifications, block_size, stride, inter_dim, dataset_path, main_dir_path)
 
-    def main(self):
+    def segmentation_cropping(self):
         """
         Main function to generate the images according to the provided block size and inter_dim
         :return: None
@@ -56,7 +45,7 @@ class GenerateImages:
                         filepath = os.listdir(file_path)
                         os.chdir(file_path)
                         patient = patient_folder.split('_')[0] + '_' + patient_folder.split('_')[1]
-                        list_of_patients: list[str] = []
+                        list_of_patients: List[str] = []
                         if patient not in list_of_patients:
                             list_of_patients.append(patient)
                             # print(patient)
@@ -124,3 +113,88 @@ class GenerateImages:
         except Exception as e:
             print('Error in Generate_images()')
             print(e)
+
+    def generate_patches(self):
+        print('Creating patches...')
+        try:
+            workdir = os.listdir(self.work_dir)
+            for mgmt_type in workdir:  # 2 - MGMT_pos and MGMT_neg
+                modality_path = os.path.join(self.work_dir, mgmt_type + '/')
+                modalitypath = os.listdir(modality_path)
+                for modality in self.modalities:  # 4 - FLair t1 t2 gd
+                    patient_path = os.path.join(modality_path, modality + '/')
+                    patientpath = os.listdir(patient_path)
+                    for patient in patientpath:
+                        file_path = os.path.join(patient_path, patient + '/')
+                        filepath = os.listdir(file_path)
+
+                        os.chdir(modality_path)
+
+                        if not os.path.exists(patient):
+                            os.mkdir(patient)
+                            # shutil.copytree('{}'.format(modality), '{}'.format(patient))
+
+                        # chdir to the patient folder
+                        os.chdir(os.path.join(modality_path, modality + '/' + patient + '/'))
+                        for png in tqdm(glob.glob('*.png')):
+                            img = Image.open(png)
+                            img_w, img_h = img.size
+
+                            file_name, extension = os.path.splitext(png)
+
+                            save_path = os.path.join(modality_path, patient + '/')
+                            # print('Save_path:', Save_path)
+
+                            frame_num = 0
+                            count_row = 0
+
+                            for row in range(0, img_h, self.stride):
+                                if img_h - row >= self.block_h:
+                                    count_row += 1
+                                    count_col = 0
+
+                                    for col in range(0, img_w, self.stride):
+                                        if (img_w - col >= self.block_w):
+                                            count_col += 1
+                                            frame_num += 1
+
+                                            box = (col, row, col + self.block_w, row + self.block_h)
+                                            a = img.crop(box)
+                                            a.save(save_path + file_name + '_row_' + str(count_row) + '_col_' + str(
+                                                count_col) + '.png')
+
+                            img.close()
+                            os.remove(png)
+
+                    print('Patching done for {} modality'.format(modality))
+
+                    # shutil.rmtree(os.path.join(Modality_path, modality))
+                print('Patching done for {}'.format(mgmt_type))
+
+        except Exception as e:
+            print('Error in Creating_patches() function')
+            print(e)
+
+    def update_patch_record(self):
+        os.chdir(self.main_dir_path)
+        patch_df = pd.read_csv(self.main_dir_path + 'Codes/upenn_data.csv')
+
+        for mgmt_type in os.listdir(self.work_dir):
+
+            # Delete existing Modality empty folders if any
+            for modality in self.modalities:
+                if modality in os.listdir(self.work_dir + mgmt_type + '/'):
+                    shutil.rmtree(self.work_dir + mgmt_type + '/' + modality)
+
+            # update the csv with patches of patients
+            for patient in os.listdir(self.work_dir + mgmt_type + '/'):
+                patch_df.loc[patch_df.id == patient, 'patches64'] = True  # mention the patches column to update
+
+        patch_df.to_csv(self.main_dir_path + 'Codes/upenn_data.csv', index=False)
+
+    def main(self):
+        self.backup_folders()
+        self.create_modality_folders()
+        self.segmentation_cropping()
+        # self.generate_patches()
+        self.update_patch_record()
