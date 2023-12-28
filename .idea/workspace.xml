@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b9c96cf-47aa-420e-9b7a-273c7409f8e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Codes/Codes/class codes/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Codes/class codes/data_preparation/image_generation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes/Codes/class codes/data_preparation/data_sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes/Codes/class codes/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gliobastoma-mgmt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gliobastoma-mgmt.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes/Codes/novel_method/1_file_structuring.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Codes/novel_method/1_file_structuring.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes/Codes/novel_method/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Codes/novel_method/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes/class codes/data_preparation/image_generation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/class codes/data_preparation/image_generation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes/Codes/class codes/data_preparation/file_structuring.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Codes/class codes/data_preparation/file_structuring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes/Codes/class codes/data_preparation/image_generation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Codes/class codes/data_preparation/image_generation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +23,17 @@
       <list>
         <option value="Python Script" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="Git.Settings">
@@ -40,21 +50,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "server",
-    "last_opened_file_path": "E:/ML projects/gliobastoma-mgmt/Codes/class codes",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;server&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/ML projects/conditional_srdiffusion&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\ML projects\gliobastoma-mgmt\Codes\class codes" />
@@ -75,7 +85,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698849268152</updated>
-      <workItem from="1703736589894" duration="2314000" />
+      <workItem from="1703736589894" duration="12220000" />
+      <workItem from="1703753482109" duration="456000" />
     </task>
     <servers />
   </component>

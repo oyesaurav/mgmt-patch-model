@@ -112,3 +112,6 @@ dist
 /Task_data
 /Images
 .idea/
+# Ignore folders starting with data__
+data*/
+Data*/
