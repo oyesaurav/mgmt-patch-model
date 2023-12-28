@@ -1,24 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0b9c96cf-47aa-420e-9b7a-273c7409f8e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Codes/data_sorting/data_sorting_upenn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/data_sorting/data_sorting_upenn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes/novel_method/3_model_training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/novel_method/3_model_training.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes/Codes/class codes/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes/Codes/class codes/data_preparation/image_generation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes/Codes/novel_method/1_file_structuring.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Codes/novel_method/1_file_structuring.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes/Codes/novel_method/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/Codes/novel_method/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes/class codes/data_preparation/image_generation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/class codes/data_preparation/image_generation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Codes" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2XZv9zTbxvlVmTFot0tkQ4V3m88" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,10 +44,29 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "upenn",
-    "last_opened_file_path": "E:/ML projects/gliobastoma-mgmt"
+    "git-widget-placeholder": "server",
+    "last_opened_file_path": "E:/ML projects/gliobastoma-mgmt/Codes/class codes",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ML projects\gliobastoma-mgmt\Codes\class codes" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,7 +75,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698849268152</updated>
+      <workItem from="1703736589894" duration="2314000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
