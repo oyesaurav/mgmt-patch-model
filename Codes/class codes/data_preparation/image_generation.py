@@ -5,6 +5,7 @@ from typing import List, Tuple
 from tqdm import tqdm
 from PIL import Image
 import nibabel as nib
+import cv2 as cv
 import numpy as np
 
 
@@ -35,6 +36,9 @@ class GenerateImages:
         self.main_dir_path = main_dir_path
         self.org_dir = self.main_dir_path + 'Original_Data_Backup/'
         self.work_dir = self.main_dir_path + 'Working_Data/'
+
+    def ConnectedComponentsLabelling(self,gray_img: np.array):
+            return cv.connectedComponentsWithStats(gray_img, connectivity=8)
 
     def main(self):
         """
@@ -67,8 +71,7 @@ class GenerateImages:
 
                             # Extracting layers from mask that have non-zero values
                             z = np.any(seg_mask_data, axis=(0, 1))
-                            zmin, zmax = np.where(z)[0][[0,
-                                                         -1]]  # zmin & zmax are the first and last layer number non
+                            zmin, zmax = np.where(z)[0][[0, -1]]  # zmin & zmax are the first and last layer number non
                             # zero values in the z axis
 
                             # Creating a new mask to remove segmentation
@@ -83,8 +86,7 @@ class GenerateImages:
                                 row_max = np.max(r)
                                 col_min = np.min(c)
                                 col_max = np.max(c)
-                                d[row_min:row_max + 1, col_min:col_max + 1, layer] = 1  # Replacing tumor region
-                                # values by 1
+                                d[row_min:row_max + 1, col_min:col_max + 1, layer] = 1  # Replacing tumor region with highest pixel value
 
                             #  Multiply modality data with the new segmentation mask
                             tumor = np.multiply(mod_data, d)
@@ -95,13 +97,21 @@ class GenerateImages:
                             # Converting to png files
                             cropped_list = []
                             for lay in range(0, tumor_layers.shape[2]):
-                                coords = np.argwhere(tumor_layers[:, :, lay])
-                                x_min, y_min = coords.min(axis=0)
-                                x_max, y_max = coords.max(axis=0)
-                                cropped = tumor_layers[x_min:x_max + 1, y_min:y_max + 1, lay]
-                                cropped *= (255.0 / cropped.max())  # Normalizing the values
-                                mod_data[:, :, lay] *= (255.0 / mod_data[:, :, lay].max())
-                                cropped_list.append(cropped)
+                                _, binary_img = cv.threshold(lay, 0, 255, cv.THRESH_BINARY)
+                                n_labels, labels, stats, centroids = self.ConnectedComponentsLabelling(binary_img)
+                                for region in range(1,n_labels):
+                                    indices = np.where(labels==region)
+                                    r_max = indices[0].max()
+                                    r_min = indices[0].min()
+                                    c_min = indices[1].min()
+                                    c_max = indices[1].max()
+                                    # coords = np.argwhere(tumor_layers[:, :, lay])
+                                    # x_min, y_min = coords.min(axis=0)
+                                    # x_max, y_max = coords.max(axis=0)
+                                    cropped = mod_data[r_min:r_max + 1, c_min:c_max + 1, lay]
+                                    cropped *= (255.0 / cropped.max())  # Normalizing the values
+                                    # mod_data[:, :, lay] *= (255.0 / mod_data[:, :, lay].max())
+                                    cropped_list.append(cropped)
 
                             frame = 0
                             for item in cropped_list:
@@ -109,7 +119,7 @@ class GenerateImages:
                                     frame = frame + 1
                                     im = Image.fromarray(item)
                                     im = im.convert('RGB')
-                                    im = im.resize(self.inter_dim, Image.Resampling.LANCZOS)  # interpolating
+                                    # im = im.resize(self.inter_dim, Image.Resampling.LANCZOS)  # interpolating
                                     im.save('{}_{}_{}.png'.format(patient, modality, frame))
                                     im.close()
                             # Deleting the nifti files
@@ -124,3 +134,5 @@ class GenerateImages:
         except Exception as e:
             print('Error in Generate_images()')
             print(e)
+
+        
