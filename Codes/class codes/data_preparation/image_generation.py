@@ -5,10 +5,11 @@ from typing import List, Tuple
 import pandas as pd
 from tqdm import tqdm
 from PIL import Image
+import matplotlib.pyplot as plt
 import nibabel as nib
 import cv2 as cv
 import numpy as np
-from file_structuring import FolderStructure
+from data_preparation.file_structuring import FolderStructure
 
 
 class GenerateImages(FolderStructure):
@@ -26,7 +27,7 @@ class GenerateImages(FolderStructure):
         """
         super().__init__(modalities, classifications, block_size, stride, inter_dim, dataset_path, main_dir_path)
 
-    def ConnectedComponentsLabelling(self,gray_img: np.array):
+    def ConnectedComponentsLabelling(self,gray_img):
             return cv.connectedComponentsWithStats(gray_img, connectivity=8)
 
     def segmentation_cropping(self):
@@ -57,7 +58,6 @@ class GenerateImages(FolderStructure):
                             mod_data = mod.get_fdata()  # Getting the data from the nifti file
                             seg_mask = nib.load('{}_seg.nii.gz'.format(patient))
                             seg_mask_data = seg_mask.get_fdata()  # Getting the data from the nifti file
-
                             # Extracting layers from mask that have non-zero values
                             z = np.any(seg_mask_data, axis=(0, 1))
                             zmin, zmax = np.where(z)[0][[0, -1]]  # zmin & zmax are the first and last layer number non
@@ -66,28 +66,23 @@ class GenerateImages(FolderStructure):
                             # Creating a new mask to remove segmentation
                             d = seg_mask_data
                             for layer in range(zmin, zmax + 1):
-                                nonzero = np.nonzero(d[:, :, layer])
-                                r = nonzero[0]
-                                c = nonzero[1]
-                                if (r.size == 0) or (c.size == 0):
-                                    continue
-                                row_min = np.min(r)
-                                row_max = np.max(r)
-                                col_min = np.min(c)
-                                col_max = np.max(c)
-                                d[row_min:row_max + 1, col_min:col_max + 1, layer] = 1  # Replacing tumor region with highest pixel value
+                                d[:,:,layer] =  np.where(d[:,:,layer] != 0, 1, 0)
 
                             #  Multiply modality data with the new segmentation mask
                             tumor = np.multiply(mod_data, d)
 
                             # Removing Zero valued layers
-                            tumor_layers = tumor[:, :, ~(tumor == 0).all((0, 1))]
+                            # tumor_layers = tumor[:, :, ~(tumor == 0).all((0, 1))]
 
                             # Converting to png files
                             cropped_list = []
-                            for lay in range(0, tumor_layers.shape[2]):
-                                _, binary_img = cv.threshold(lay, 0, 255, cv.THRESH_BINARY)
+                            for lay in range(0, tumor.shape[2]):
+                                if np.all(tumor[:,:,lay] == 0): continue
+                                # convert the tumor array values to 0 or 255
+                                _, binary_img = cv.threshold(tumor[:, :, lay], 0, 255, cv.THRESH_BINARY)
+                                binary_img = binary_img.astype(np.uint8)
                                 n_labels, labels, stats, centroids = self.ConnectedComponentsLabelling(binary_img)
+                                # find the bounding box for each component
                                 for region in range(1,n_labels):
                                     indices = np.where(labels==region)
                                     r_max = indices[0].max()
@@ -104,10 +99,10 @@ class GenerateImages(FolderStructure):
 
                             frame = 0
                             for item in cropped_list:
-                                if ((item.shape[0] * item.shape[1]) >= 300):
+                                if True: #((item.shape[0] * item.shape[1]) >= 300):
                                     frame = frame + 1
                                     im = Image.fromarray(item)
-                                    im = im.convert('RGB')
+                                    im = im.convert('L')
                                     # im = im.resize(self.inter_dim, Image.Resampling.LANCZOS)  # interpolating
                                     im.save('{}_{}_{}.png'.format(patient, modality, frame))
                                     im.close()
@@ -207,4 +202,4 @@ class GenerateImages(FolderStructure):
         self.create_modality_folders()
         self.segmentation_cropping()
         # self.generate_patches()
-        self.update_patch_record()
+        # self.update_patch_record()

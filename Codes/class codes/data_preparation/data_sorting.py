@@ -81,9 +81,12 @@ class DataPreparation:
         :return: None
         """
         df6 = pd.read_csv(self.main_dir_path + 'Codes/upenn_data.csv')
+        os.mkdir(self.main_dir_path + 'Data/')
 
         m_neg = self.main_dir_path + 'Data/MGMT_negative/'
         m_pos = self.main_dir_path + 'Data/MGMT_positive/'
+        os.mkdir(m_neg)
+        os.mkdir(m_pos)
 
         pos = 0
         neg = 0

@@ -33,8 +33,8 @@ class FolderStructure:
         self.inter_dim = inter_dim
         self.dataset_path = dataset_path
         self.main_dir_path = main_dir_path
-        self.org_dir = self.main_dir_path + 'Original_Data_Backup/'
-        self.work_dir = self.main_dir_path + 'Working_Data/'
+        self.org_dir = self.main_dir_path + 'Data/Original_Data_Backup/'
+        self.work_dir = self.main_dir_path + 'Data/Working_Data/'
 
     def backup_folders(self):
         """
@@ -45,7 +45,7 @@ class FolderStructure:
         print('Creating Backup')
         # Copy data for backup
         try:
-            shutil.copytree(self.main_dir_path, self.org_dir)
+            shutil.copytree(self.main_dir_path + 'Data/', self.org_dir)
         except Exception as e:
             print(e)
 
@@ -58,7 +58,7 @@ class FolderStructure:
         # Deleting folder, listed in the CATEGORIES list, after creating Cases
         for cate in self.classifications:
             try:
-                shutil.rmtree(self.main_dir_path + cate)  # Deleting Folders of CATEGORIES list
+                shutil.rmtree(self.main_dir_path + 'Data/' + cate)  # Deleting Folders of CATEGORIES list
             except Exception as e:
                 print(e)
         print('Backup Created')
